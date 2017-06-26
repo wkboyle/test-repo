@@ -1,0 +1,1391 @@
+#Replicon Name,Replicon Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,COG(s),Protein name
+chr,NC_001318.1,105,677,+,1194837,-,BB_0001,NP_212135.1,190,-,hypothetical protein BB_0001
+chr,NC_001318.1,768,1796,-,1194838,-,BB_0002,NP_212136.1,342,-,hypothetical protein BB_0002
+chr,NC_001318.1,3419,5188,+,1194840,-,BB_0004,NP_212138.2,589,-,phosphoglucomutase
+chr,NC_001318.1,5251,6306,-,1194841,trpS,BB_0005,NP_212139.2,351,-,tryptophan--tRNA ligase
+chr,NC_001318.1,6309,7397,-,1194842,-,BB_0006,NP_212140.2,362,-,membrane protein
+chr,NC_001318.1,7458,8315,-,1194843,-,BB_0007,NP_212141.1,285,-,hypothetical protein BB_0007
+chr,NC_001318.1,8427,9197,+,1194844,-,BB_0008,NP_212142.2,256,-,hypothetical protein BB_0008
+chr,NC_001318.1,9202,10206,+,1194845,-,BB_0009,NP_212143.1,334,-,hypothetical protein BB_0009
+chr,NC_001318.1,10203,10577,+,1194846,-,BB_0010,NP_212144.1,124,-,holo-acyl-carrier protein synthase
+chr,NC_001318.1,10581,11420,+,1194847,-,BB_0011,NP_212145.1,279,-,hypothetical protein BB_0011
+chr,NC_001318.1,11421,12161,+,1194848,truA,BB_0012,NP_212146.1,246,-,tRNA pseudouridine synthase A
+chr,NC_001318.1,12154,12753,+,1194849,-,BB_0013,NP_212147.1,199,-,hypothetical protein BB_0013
+chr,NC_001318.1,12746,14728,+,1194850,priA,BB_0014,NP_212148.1,660,-,primosomal protein N
+chr,NC_001318.1,14725,15345,-,1194851,udk,BB_0015,NP_212149.2,206,-,uridine kinase
+chr,NC_001318.1,15345,15716,-,1194852,-,BB_0016,NP_212150.2,123,-,GlpE protein
+chr,NC_001318.1,15995,16804,+,1194853,-,BB_0017,NP_212151.2,269,-,integral membrane protein
+chr,NC_001318.1,16807,17808,-,1194854,-,BB_0018,YP_008686553.1,333,-,ribosomal large subunit pseudouridine synthase D
+chr,NC_001318.1,17792,18304,-,1194855,-,BB_0019,NP_212153.1,170,-,hypothetical protein BB_0019
+chr,NC_001318.1,18312,19979,-,1194856,-,BB_0020,YP_008686554.1,555,-,diphosphate--fructose-6-phosphate 1-phosphotransferase
+chr,NC_001318.1,21058,22101,-,1194858,ruvB,BB_0022,NP_212156.1,347,-,Holliday junction DNA helicase RuvB
+chr,NC_001318.1,22146,22739,-,1194859,ruvA,BB_0023,NP_212157.1,197,-,Holliday junction DNA helicase RuvA
+chr,NC_001318.1,22819,23958,+,1194860,-,BB_0024,NP_212158.1,379,-,hypothetical protein BB_0024
+chr,NC_001318.1,23965,24696,-,1194861,-,BB_0025,NP_212159.1,243,-,transcriptional regulator
+chr,NC_001318.1,24697,25623,-,1194862,-,BB_0026,NP_212160.1,308,-,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+chr,NC_001318.1,25753,26391,+,1194863,-,BB_0027,NP_212161.1,212,-,hypothetical protein BB_0027
+chr,NC_001318.1,26399,27448,+,1194864,-,BB_0028,NP_212162.1,349,-,hypothetical protein BB_0028
+chr,NC_001318.1,27434,27865,-,1194865,-,BB_0029,NP_212163.1,143,-,hypothetical protein BB_0029
+chr,NC_001318.1,27855,28490,-,1194866,lepB,BB_0030,NP_212164.1,211,-,signal peptidase I
+chr,NC_001318.1,28492,29472,-,1194867,lepB,BB_0031,NP_212165.1,326,-,signal peptidase I
+chr,NC_001318.1,29543,31015,+,1194868,-,BB_0032,NP_212166.1,490,-,hypothetical protein BB_0032
+chr,NC_001318.1,31027,31479,+,1194869,smpB,BB_0033,NP_212167.1,150,-,SsrA-binding protein
+chr,NC_001318.1,31550,32089,-,1194870,-,BB_0034,NP_212168.1,179,-,outer membrane protein P13
+chr,NC_001318.1,32157,34037,-,1194871,-,BB_0035,NP_212169.1,626,-,DNA topoisomerase IV subunit A
+chr,NC_001318.1,34037,35836,-,1194872,-,BB_0036,NP_212170.1,599,-,DNA topoisomerase IV subunit B
+chr,NC_001318.1,35857,36609,-,1194873,-,BB_0037,NP_212171.1,250,-,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chr,NC_001318.1,36606,38123,-,1194874,-,BB_0038,YP_008686555.1,505,-,hypothetical protein BB_0038
+chr,NC_001318.1,38136,39638,-,1194875,-,BB_0039,NP_212173.1,500,-,hypothetical protein BB_0039
+chr,NC_001318.1,39826,40677,+,1194876,cheR,BB_0040,NP_212174.1,283,-,chemotaxis protein methyltransferase
+chr,NC_001318.1,40761,41432,-,1194878,phoU,BB_0042,NP_212176.1,223,-,phosphate-specific transport system accessory protein PhoU
+chr,NC_001318.1,41443,42483,-,1194879,-,BB_0043,NP_212177.1,346,-,hypothetical protein BB_0043
+chr,NC_001318.1,42480,42881,-,1194880,-,BB_0044,NP_212178.1,133,-,hypothetical protein BB_0044
+chr,NC_001318.1,42907,45354,-,1194881,-,BB_0045,NP_212179.2,815,-,P115 protein
+chr,NC_001318.1,45446,45991,+,1194882,rnhB,BB_0046,NP_212180.1,181,-,ribonuclease HII
+chr,NC_001318.1,46011,46379,-,1194883,-,BB_0047,NP_212181.2,122,-,hypothetical protein BB_0047
+chr,NC_001318.1,47167,47841,+,1194886,-,BB_0050,NP_212184.1,224,-,hypothetical protein BB_0050
+chr,NC_001318.1,47917,48606,+,1194887,-,BB_0051,NP_212185.2,229,-,integral membrane protein
+chr,NC_001318.1,48603,49259,-,1194888,-,BB_0052,NP_212186.1,218,-,tRNA/rRNA methyltransferase
+chr,NC_001318.1,49341,50012,+,1194889,ung,BB_0053,NP_212187.1,223,-,uracil-DNA glycosylase
+chr,NC_001318.1,50112,50474,-,1194890,-,BB_0054,NP_212188.2,120,-,protein-export membrane protein SecG
+chr,NC_001318.1,50490,51251,-,1194891,tpiA,BB_0055,NP_212189.1,253,-,triosephosphate isomerase
+chr,NC_001318.1,51253,52434,-,1194892,pgk,BB_0056,NP_212190.1,393,-,phosphoglycerate kinase
+chr,NC_001318.1,52454,53461,-,1194893,gap,BB_0057,NP_212191.1,335,-,glyceraldehyde 3-phosphate dehydrogenase
+chr,NC_001318.1,53534,55504,-,1194894,-,BB_0058,NP_212192.1,656,-,hypothetical protein BB_0058
+chr,NC_001318.1,55501,56280,-,1194895,-,BB_0059,NP_212193.1,259,-,CBS domain-containing protein
+chr,NC_001318.1,56281,56748,-,1194896,-,BB_0060,NP_212194.1,155,-,endoribonuclease
+chr,NC_001318.1,56832,57185,-,1194897,trx,BB_0061,NP_212195.1,117,-,thioredoxin
+chr,NC_001318.1,57259,57975,+,1194898,-,BB_0062,NP_212196.1,238,-,rRNA small subunit methyltransferase E
+chr,NC_001318.1,58029,58982,-,1194899,-,BB_0063,NP_212197.2,317,-,hypothetical protein BB_0063
+chr,NC_001318.1,59101,60039,-,1194900,fmt,BB_0064,NP_212198.1,312,-,methionyl-tRNA formyltransferase
+chr,NC_001318.1,60036,60533,-,1194901,def,BB_0065,NP_212199.2,165,-,peptide deformylase
+chr,NC_001318.1,60568,61257,-,1194902,-,BB_0066,NP_212200.1,229,-,hypothetical protein BB_0066
+chr,NC_001318.1,61254,63032,-,1194903,-,BB_0067,YP_008686556.1,592,-,peptidase
+chr,NC_001318.1,63147,64028,+,1194904,-,BB_0068,NP_212202.1,293,-,haloacid dehalogenase-like hydrolase
+chr,NC_001318.1,64038,65276,+,1194905,-,BB_0069,NP_212203.1,412,-,aminopeptidase II
+chr,NC_001318.1,65291,65752,+,1194906,-,BB_0070,NP_212204.1,153,-,hypothetical protein BB_0070
+chr,NC_001318.1,65768,67240,+,1194907,-,BB_0071,YP_008686557.1,490,-,membrane protein
+chr,NC_001318.1,67248,69569,+,1194908,-,BB_0072,NP_212206.1,773,-,membrane protein
+chr,NC_001318.1,69566,70126,+,1194909,-,BB_0073,NP_212207.1,186,-,hypothetical protein BB_0073
+chr,NC_001318.1,70142,71219,+,1194910,prfB,BB_0074,NP_212208.2,358,-,peptide chain release factor 2
+chr,NC_001318.1,71201,72610,+,1194911,-,BB_0075,NP_212209.1,469,-,hypothetical protein BB_0075
+chr,NC_001318.1,72647,73492,+,1194912,ftsY,BB_0076,NP_212210.1,281,-,signal recognition particle-docking protein FtsY
+chr,NC_001318.1,73489,74517,+,1194913,-,BB_0077,YP_008686558.1,342,-,hypothetical protein BB_0077
+chr,NC_001318.1,75774,76454,+,1194916,-,BB_0080,NP_212214.2,226,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,76451,77701,+,1194917,-,BB_0081,NP_212215.1,416,-,efflux ABC transporter permease
+chr,NC_001318.1,77711,79009,-,1194918,-,BB_0082,NP_212216.1,432,-,hypothetical protein BB_0082
+chr,NC_001318.1,79002,79322,-,1194919,-,BB_0083,NP_212217.2,106,-,hypothetical protein BB_0083
+chr,NC_001318.1,79505,80773,+,1194920,-,BB_0084,NP_212218.1,422,-,cysteine desulfurase
+chr,NC_001318.1,80983,81408,+,1194921,-,BB_0085,NP_212219.1,141,-,hypothetical protein BB_0085
+chr,NC_001318.1,81405,82940,+,1194922,-,BB_0086,NP_212220.1,511,-,Mg chelatase-like protein
+chr,NC_001318.1,82970,83920,-,1194923,-,BB_0087,NP_212221.1,316,-,L-lactate dehydrogenase
+chr,NC_001318.1,84041,85720,-,1194924,-,BB_0088,NP_212222.1,559,-,elongation factor EF-4
+chr,NC_001318.1,85880,86854,-,1194925,-,BB_0089,NP_212223.1,324,-,hypothetical protein BB_0089
+chr,NC_001318.1,86926,87360,-,1194926,-,BB_0090,NP_212224.1,144,-,V-type ATP synthase subunit K
+chr,NC_001318.1,87377,89203,-,1194927,-,BB_0091,YP_008686559.1,608,-,V-type ATP synthase subunit I
+chr,NC_001318.1,89200,89808,-,1194928,-,BB_0092,NP_212226.2,202,-,V-type ATPase subunit D
+chr,NC_001318.1,89811,91115,-,1194929,-,BB_0093,NP_212227.1,434,-,V-type ATP synthase subunit B
+chr,NC_001318.1,91137,92864,-,1194930,-,BB_0094,YP_008686560.1,575,-,ATP synthase subunit A
+chr,NC_001318.1,92878,93423,-,1194931,-,BB_0095,NP_212229.1,181,-,hypothetical protein BB_0095
+chr,NC_001318.1,93433,94032,-,1194932,-,BB_0096,NP_212230.2,199,-,V-type ATP synthase subunit E
+chr,NC_001318.1,94219,94605,-,1194933,-,BB_0097,NP_212231.1,128,-,hypothetical protein BB_0097
+chr,NC_001318.1,94611,96953,-,1194934,-,BB_0098,NP_212232.1,780,-,endonuclease MutS2
+chr,NC_001318.1,96943,97866,-,1194935,rsgA,BB_0099,NP_212233.1,307,-,ribosome biogenesis GTPase RsgA
+chr,NC_001318.1,97863,98648,-,1194936,murI,BB_0100,NP_212234.1,261,-,glutamate racemase
+chr,NC_001318.1,98817,100205,+,1194937,asnS,BB_0101,NP_212235.2,462,-,asparagine--tRNA ligase
+chr,NC_001318.1,100228,100749,+,1194938,-,BB_0102,NP_212236.1,173,-,hypothetical protein BB_0102
+chr,NC_001318.1,100746,101339,-,1194939,-,BB_0103,NP_212237.1,197,-,hypothetical protein BB_0103
+chr,NC_001318.1,101525,102949,-,1194940,-,BB_0104,NP_212238.2,474,-,periplasmic serine protease DO
+chr,NC_001318.1,103016,103771,-,1194941,map,BB_0105,NP_212239.1,251,-,methionine aminopeptidase
+chr,NC_001318.1,103764,105299,-,1194942,-,BB_0106,NP_212240.2,511,-,hypothetical protein BB_0106
+chr,NC_001318.1,105418,105846,-,1194943,nusB,BB_0107,NP_212241.2,142,-,transcription antitermination factor NusB
+chr,NC_001318.1,105884,106894,-,1194944,-,BB_0108,NP_212242.1,336,-,basic membrane protein
+chr,NC_001318.1,106974,108170,-,1194945,-,BB_0109,NP_212243.1,398,-,acetyl-CoA C-acetyltransferase
+chr,NC_001318.1,108307,109671,+,1194946,-,BB_0110,NP_212244.1,454,-,hypothetical protein BB_0110
+chr,NC_001318.1,109675,111042,-,1194947,dnaB,BB_0111,NP_212245.1,455,-,replicative DNA helicase
+chr,NC_001318.1,111046,111567,-,1194948,rplI,BB_0112,NP_212246.1,173,-,50S ribosomal protein L9
+chr,NC_001318.1,111585,111875,-,1194949,rpsR,BB_0113,NP_212247.1,96,-,30S ribosomal protein S18
+chr,NC_001318.1,111889,112338,-,1194950,-,BB_0114,NP_212248.1,149,-,single-stranded DNA-binding protein
+chr,NC_001318.1,112350,112769,-,1194951,-,BB_0115,NP_212249.1,139,-,30S ribosomal protein S6
+chr,NC_001318.1,112909,114603,-,1194952,-,BB_0116,NP_212250.2,564,-,PTS system maltose and glucose-specific transporter subunit IIABC
+chr,NC_001318.1,114807,115508,+,1194953,-,BB_0117,NP_212251.1,233,-,hemolysin III
+chr,NC_001318.1,115505,116806,-,1194954,rseP,BB_0118,NP_212252.2,433,-,RIP metalloprotease RseP
+chr,NC_001318.1,117678,118370,-,1194955,uppS,BB_0120,NP_212254.1,230,-,isoprenyl transferase
+chr,NC_001318.1,118375,118929,-,1194956,frr,BB_0121,NP_212255.1,184,-,ribosome recycling factor
+chr,NC_001318.1,118964,119803,-,1194957,tsf,BB_0122,NP_212256.1,279,-,elongation factor Ts
+chr,NC_001318.1,119807,120589,-,1194958,rpsB,BB_0123,NP_212257.1,260,-,30S ribosomal protein S2
+chr,NC_001318.1,120804,121082,-,1194959,-,BB_0124,NP_212258.1,92,-,hypothetical protein BB_0124
+chr,NC_001318.1,121101,121823,-,1194960,-,BB_0125,NP_212259.1,240,-,hypothetical protein BB_0125
+chr,NC_001318.1,121880,122491,-,1194961,-,BB_0126,NP_212260.1,203,-,hypothetical protein BB_0126
+chr,NC_001318.1,122491,124146,-,1194962,-,BB_0127,NP_212261.2,551,-,30S ribosomal protein S1
+chr,NC_001318.1,124149,124814,-,1194963,cmk,BB_0128,NP_212262.1,221,-,cytidylate kinase
+chr,NC_001318.1,124798,125547,-,1194964,-,BB_0129,NP_212263.1,249,-,hypothetical protein BB_0129
+chr,NC_001318.1,125534,126301,-,1194965,-,BB_0130,NP_212264.1,255,-,hypothetical protein BB_0130
+chr,NC_001318.1,126316,127413,-,1194966,recA,BB_0131,NP_212265.1,365,-,recombinase A
+chr,NC_001318.1,127427,130132,-,1194967,-,BB_0132,NP_212266.1,901,-,transcription elongation factor GreA
+chr,NC_001318.1,130170,131114,-,1194968,-,BB_0133,NP_212267.1,314,-,hypothetical protein BB_0133
+chr,NC_001318.1,131298,132425,+,1194969,-,BB_0134,NP_212268.2,375,-,hypothetical protein BB_0134
+chr,NC_001318.1,132472,133842,-,1194970,hisS,BB_0135,NP_212269.2,456,-,histidine--tRNA ligase
+chr,NC_001318.1,133975,135864,+,1194971,-,BB_0136,NP_212270.1,629,-,penicillin-binding protein
+chr,NC_001318.1,135874,137766,-,1194972,-,BB_0137,NP_212271.1,630,-,long-chain-fatty-acid CoA ligase
+chr,NC_001318.1,137880,138089,-,1194973,-,BB_0138,NP_212272.1,69,-,hypothetical protein BB_0138
+chr,NC_001318.1,138434,138745,-,1194974,-,BB_0139,NP_212273.2,103,-,hypothetical protein BB_0139
+chr,NC_001318.1,141979,142932,-,1194976,-,BB_0141,NP_212275.2,317,-,membrane fusion protein
+chr,NC_001318.1,142944,144230,-,1194977,-,BB_0142,NP_212276.2,428,-,outer membrane efflux protein
+chr,NC_001318.1,144307,144597,+,1194978,-,BB_0143,NP_212277.1,96,-,membrane protein insertion efficiency factor
+chr,NC_001318.1,144586,145458,-,1194979,-,BB_0144,NP_212278.1,290,-,glycine/betaine ABC transporter substrate-binding protein
+chr,NC_001318.1,145471,146370,-,1194980,-,BB_0145,NP_212279.1,299,-,glycine/betaine ABC transporter permease
+chr,NC_001318.1,146377,147495,-,1194981,-,BB_0146,NP_212280.1,372,-,glycine/betaine ABC transporter ATP-binding protein
+chr,NC_001318.1,147649,148659,-,1194982,-,BB_0147,NP_212281.1,336,-,flagellin
+chr,NC_001318.1,148786,150783,-,1194984,-,BB_0149,YP_008686561.1,665,-,flagellar hook-associated protein FliD
+chr,NC_001318.1,150974,152179,+,1194986,nagA,BB_0151,NP_212285.1,401,-,N-acetylglucosamine-6-phosphate deacetylase
+chr,NC_001318.1,152206,153012,+,1194987,nagB,BB_0152,NP_212286.1,268,-,glucosamine-6-phosphate deaminase
+chr,NC_001318.1,153075,153686,-,1194988,-,BB_0153,NP_212287.2,203,-,superoxide dismutase
+chr,NC_001318.1,153701,156400,-,1194989,secA,BB_0154,NP_212288.1,899,-,protein translocase subunit SecA
+chr,NC_001318.1,156462,157598,+,1194990,-,BB_0155,NP_212289.1,378,-,lipoprotein
+chr,NC_001318.1,157627,158061,+,1194991,-,BB_0156,NP_212290.1,144,-,hypothetical protein BB_0156
+chr,NC_001318.1,158076,158474,+,1194992,-,BB_0157,NP_212291.2,132,-,hypothetical protein BB_0157
+chr,NC_001318.1,158628,159344,+,1194993,-,BB_0158,NP_212292.1,238,-,S2 lipoprotein
+chr,NC_001318.1,159368,160042,+,1194994,-,BB_0159,NP_212293.1,224,-,hypothetical protein BB_0159
+chr,NC_001318.1,160090,161208,+,1194995,alr,BB_0160,NP_212294.1,372,-,alanine racemase
+chr,NC_001318.1,161200,162801,-,1194996,-,BB_0161,NP_212295.2,533,-,hypothetical protein BB_0161
+chr,NC_001318.1,162878,163045,+,1194997,-,BB_0162,NP_212296.1,55,-,hypothetical protein BB_0162
+chr,NC_001318.1,163072,164820,-,1194998,-,BB_0163,NP_212297.1,582,-,hypothetical protein BB_0163
+chr,NC_001318.1,164901,165887,-,1194999,-,BB_0164,NP_212298.2,328,-,K+-dependent Na+/Ca+ exchanger-like protein
+chr,NC_001318.1,165915,167759,-,1195000,-,BB_0165,NP_212299.1,614,-,hypothetical protein BB_0165
+chr,NC_001318.1,167879,169399,-,1195001,malQ,BB_0166,NP_212300.1,506,-,4-alpha-glucanotransferase
+chr,NC_001318.1,169563,170708,+,1195002,-,BB_0167,NP_212301.2,381,-,outer membrane protein
+chr,NC_001318.1,170720,171097,-,1195003,-,BB_0168,NP_212302.1,125,-,dnaK suppressor
+chr,NC_001318.1,171263,171484,+,1195004,infA,BB_0169,NP_212303.2,73,-,translation initiation factor IF-1
+chr,NC_001318.1,171532,173535,-,1195005,-,BB_0170,NP_212304.2,667,-,hypothetical protein BB_0170
+chr,NC_001318.1,173529,174116,-,1195006,-,BB_0171,NP_212305.1,195,-,hypothetical protein BB_0171
+chr,NC_001318.1,174098,174970,-,1195007,-,BB_0172,NP_212306.2,290,-,von Willebrand factor type A domain-containing protein
+chr,NC_001318.1,175081,176082,-,1195008,-,BB_0173,YP_008686562.1,333,-,hypothetical protein BB_0173
+chr,NC_001318.1,176069,176974,-,1195009,-,BB_0174,NP_212308.1,301,-,hypothetical protein BB_0174
+chr,NC_001318.1,176978,177853,-,1195010,-,BB_0175,NP_212309.1,291,-,hypothetical protein BB_0175
+chr,NC_001318.1,177868,178860,-,1195011,-,BB_0176,NP_212310.2,330,-,ATPase
+chr,NC_001318.1,178917,179543,-,1195012,gidB,BB_0177,NP_212311.1,208,-,rRNA small subunit methyltransferase G
+chr,NC_001318.1,179540,181405,-,1195013,gidA,BB_0178,NP_212312.2,621,-,tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+chr,NC_001318.1,181408,182802,-,1195014,trmE,BB_0179,NP_212313.1,464,-,tRNA modification GTPase
+chr,NC_001318.1,182886,183380,+,1195015,-,BB_0180,NP_212314.1,164,-,flagellar protein FlbF
+chr,NC_001318.1,183392,185275,+,1195016,flgK,BB_0181,YP_008686563.1,627,-,flagellar hook-associated protein FlgK
+chr,NC_001318.1,185278,186552,+,1195017,flgL,BB_0182,YP_008686564.1,424,-,flagellar hook-associated protein FlgL
+chr,NC_001318.1,186554,186946,+,1195018,-,BB_0183,NP_212317.1,130,-,flagellar assembly protein FliW
+chr,NC_001318.1,186949,187194,+,1195019,csrA,BB_0184,NP_212318.1,81,-,carbon storage regulator
+chr,NC_001318.1,187178,187831,-,1195020,-,BB_0185,NP_212319.1,217,-,glycoprotease family protein
+chr,NC_001318.1,187824,188237,-,1195021,-,BB_0186,NP_212320.1,137,-,tRNA threonylcarbamoyladenosine biosynthesis protein
+chr,NC_001318.1,188234,188494,-,1195022,-,BB_0187,NP_212321.1,86,-,hypothetical protein BB_0187
+chr,NC_001318.1,188708,189055,-,1195023,rplT,BB_0188,YP_008686565.1,115,-,50S ribosomal protein L20
+chr,NC_001318.1,189076,189276,-,1195024,rpmI,BB_0189,NP_212323.1,66,-,50S ribosomal protein L35
+chr,NC_001318.1,189299,189859,-,1195025,infC,BB_0190,NP_212324.1,186,-,translation initiation factor IF-3
+chr,NC_001318.1,190187,190717,+,1195027,-,BB_0192,NP_212326.2,176,-,hypothetical protein BB_0192
+chr,NC_001318.1,190719,191459,+,1195028,-,BB_0193,NP_212327.1,246,-,lipoprotein
+chr,NC_001318.1,191518,192327,-,1195029,-,BB_0194,NP_212328.1,269,-,TatD family hydrolase
+chr,NC_001318.1,192324,193463,-,1195030,-,BB_0195,NP_212329.1,379,-,hypothetical protein BB_0195
+chr,NC_001318.1,193800,194873,+,1195031,prfA,BB_0196,YP_008686566.1,357,-,peptide chain release factor 1
+chr,NC_001318.1,194876,195736,+,1195032,-,BB_0197,NP_212331.1,286,-,release factor glutamine methyltransferase
+chr,NC_001318.1,195693,197696,+,1195033,-,BB_0198,NP_212332.1,667,-,"guanosine-3\',5\'-bis(diphosphate) 3\'-pyrophosphohydrolase"
+chr,NC_001318.1,197686,199950,+,1195034,-,BB_0199,YP_008686567.1,754,-,hypothetical protein BB_0199
+chr,NC_001318.1,199965,201050,-,1195035,-,BB_0200,NP_212334.2,361,-,D-alanine--D-alanine ligase
+chr,NC_001318.1,201052,202578,-,1195036,-,BB_0201,NP_212335.1,508,-,UDP-N-acetylmuramyl-tripeptide synthetase
+chr,NC_001318.1,202850,204088,+,1195038,-,BB_0202,NP_212336.1,412,-,hemolysin
+chr,NC_001318.1,204137,205072,+,1195039,hflK,BB_0203,NP_212337.1,311,-,protein HflK
+chr,NC_001318.1,205175,206044,+,1195040,hflC,BB_0204,NP_212338.2,289,-,protein HflC
+chr,NC_001318.1,206529,208106,+,1195042,-,BB_0205,NP_212339.1,525,-,hypothetical protein BB_0205
+chr,NC_001318.1,208084,208581,-,1195043,-,BB_0206,NP_212340.2,165,-,methyltransferase
+chr,NC_001318.1,209529,211274,+,1195045,-,BB_0208,YP_008686568.1,581,-,hypothetical protein BB_0208
+chr,NC_001318.1,211301,212068,+,1195046,-,BB_0209,NP_212343.1,255,-,hypothetical protein BB_0209
+chr,NC_001318.1,212061,215420,+,1195047,-,BB_0210,YP_008686569.1,1119,-,hypothetical protein BB_0210
+chr,NC_001318.1,215427,217259,+,1195048,-,BB_0211,NP_212345.1,610,-,DNA mismatch repair protein
+chr,NC_001318.1,217278,218312,+,1195049,-,BB_0212,NP_212346.1,344,-,hypothetical protein BB_0212
+chr,NC_001318.1,218425,219078,-,1195050,-,BB_0213,NP_212347.1,217,-,lipoprotein
+chr,NC_001318.1,219056,219634,-,1195051,efp,BB_0214,NP_212348.1,192,-,elongation factor P
+chr,NC_001318.1,219800,220639,+,1195052,-,BB_0215,NP_212349.2,279,-,phosphate ABC transporter substrate-binding protein
+chr,NC_001318.1,220729,221637,+,1195053,pstC,BB_0216,NP_212350.1,302,-,phosphate ABC transporter permease PstC
+chr,NC_001318.1,221742,223178,+,1195054,pstA,BB_0217,NP_212351.2,478,-,phosphate ABC transporter permease PstA
+chr,NC_001318.1,223179,223961,+,1195055,pstB,BB_0218,NP_212352.1,260,-,phosphate ABC transporter ATP-binding protein
+chr,NC_001318.1,223964,224785,-,1195056,-,BB_0219,NP_212353.1,273,-,metal cation transporter permease
+chr,NC_001318.1,224826,226610,-,1195057,-,BB_0220,NP_212354.1,594,-,alanine--tRNA ligase
+chr,NC_001318.1,226610,227827,-,1195058,-,BB_0221,NP_212355.2,405,-,flagellar motor switch protein
+chr,NC_001318.1,227814,228521,-,1195059,-,BB_0222,NP_212356.1,235,-,6-phosphogluconolactonase
+chr,NC_001318.1,229217,230224,+,1195062,-,BB_0225,NP_212359.1,335,-,tRNA-dihydrouridine synthase A
+chr,NC_001318.1,230214,231491,-,1195063,serS,BB_0226,NP_212360.1,425,-,serine--tRNA ligase
+chr,NC_001318.1,231621,232322,+,1195064,-,BB_0227,NP_212361.1,233,-,hypothetical protein BB_0227
+chr,NC_001318.1,232338,235253,+,1195065,-,BB_0228,NP_212362.1,971,-,hypothetical protein BB_0228
+chr,NC_001318.1,235289,235534,-,1195066,rpmE,BB_0229,NP_212363.1,81,-,50S ribosomal protein L31
+chr,NC_001318.1,235595,237142,-,1195067,rho,BB_0230,NP_212364.1,515,-,transcription termination factor Rho
+chr,NC_001318.1,237222,237629,-,1195068,-,BB_0231,NP_212365.1,135,-,hypothetical protein BB_0231
+chr,NC_001318.1,237630,237956,-,1195069,hbb,BB_0232,NP_212366.1,108,-,DNA-binding protein HU
+chr,NC_001318.1,237969,238226,-,1195070,rpsT,BB_0233,NP_212367.2,85,-,30S ribosomal protein S20
+chr,NC_001318.1,238301,239128,-,1195071,-,BB_0234,NP_212368.1,275,-,integral membrane protein
+chr,NC_001318.1,239144,240250,-,1195072,ychF,BB_0235,NP_212369.1,368,-,ribosome-binding ATPase
+chr,NC_001318.1,240283,242289,-,1195073,-,BB_0236,NP_212370.1,668,-,hypothetical protein BB_0236
+chr,NC_001318.1,242438,244003,+,1195074,lnt,BB_0237,NP_212371.1,521,-,apolipoprotein N-acyltransferase
+chr,NC_001318.1,243943,244713,-,1195075,-,BB_0238,NP_212372.2,256,-,hypothetical protein BB_0238
+chr,NC_001318.1,244777,245382,-,1195076,-,BB_0239,NP_212373.2,201,-,deoxyguanosine/deoxyadenosine kinase
+chr,NC_001318.1,245790,246554,+,1195077,-,BB_0240,NP_212374.1,254,-,glycerol uptake facilitator
+chr,NC_001318.1,246597,248102,+,1195078,glpK,BB_0241,NP_212375.1,501,-,glycerol kinase
+chr,NC_001318.1,248156,248434,+,1195079,-,BB_0242,NP_212376.1,92,-,hypothetical protein BB_0242
+chr,NC_001318.1,248506,250089,+,1195080,-,BB_0243,NP_212377.1,527,-,glycerol-3-phosphate dehydrogenase
+chr,NC_001318.1,250176,250670,-,1195081,-,BB_0244,NP_212378.1,164,-,hypothetical protein BB_0244
+chr,NC_001318.1,250657,251211,-,1195082,-,BB_0245,NP_212379.1,184,-,hypothetical protein BB_0245
+chr,NC_001318.1,251212,252237,-,1195083,-,BB_0246,NP_212380.1,341,-,M23 peptidase domain-containing protein
+chr,NC_001318.1,252434,253039,+,1195084,rdgB,BB_0247,NP_212381.1,201,-,non-canonical purine NTP pyrophosphatase
+chr,NC_001318.1,253159,254931,+,1195085,pepF,BB_0248,NP_212382.1,590,-,oligoendopeptidase F
+chr,NC_001318.1,254945,255649,+,1195086,-,BB_0249,NP_212383.1,234,-,phosphatidylcholine synthase
+chr,NC_001318.1,255646,256260,+,1195087,-,BB_0250,NP_212384.1,204,-,inner membrane protein
+chr,NC_001318.1,256463,258985,+,1195088,leuS,BB_0251,NP_212385.1,840,-,leucine--tRNA ligase
+chr,NC_001318.1,259000,261303,+,1195089,-,BB_0252,YP_008686570.1,767,-,hypothetical protein BB_0252
+chr,NC_001318.1,261292,263712,-,1195090,lon,BB_0253,NP_212387.1,806,-,ATP-dependent protease La
+chr,NC_001318.1,263988,266114,+,1195091,recJ,BB_0254,NP_212388.1,708,-,single-stranded-DNA-specific exonuclease
+chr,NC_001318.1,266107,267051,+,1195092,-,BB_0255,NP_212389.2,314,-,M23 peptidase domain-containing protein
+chr,NC_001318.1,267066,267275,+,1195093,rpsU,BB_0256,NP_212390.1,69,-,30S ribosomal protein S21
+chr,NC_001318.1,267313,269676,-,1195094,-,BB_0257,YP_008853940.1,787,-,DNA translocase FtsK
+chr,NC_001318.1,269673,270473,-,1195095,-,BB_0258,NP_212392.1,266,-,undecaprenyl-diphosphatase
+chr,NC_001318.1,270488,272641,-,1195096,-,BB_0259,NP_212393.2,717,-,transglycosylase SLT domain-containing protein
+chr,NC_001318.1,272634,273647,-,1195097,-,BB_0260,NP_212394.1,337,-,hypothetical protein BB_0260
+chr,NC_001318.1,273857,275236,+,1195098,-,BB_0261,NP_212395.2,459,-,hypothetical protein BB_0261
+chr,NC_001318.1,275243,276496,-,1195099,-,BB_0262,NP_212396.1,417,-,M23 peptidase domain-containing protein
+chr,NC_001318.1,276558,277064,+,1195100,lepB,BB_0263,NP_212397.3,168,-,signal peptidase I
+chr,NC_001318.1,277090,278559,-,1195101,-,BB_0264,NP_212398.2,489,-,heat shock protein 70
+chr,NC_001318.1,278537,279058,-,1195102,-,BB_0265,NP_212399.1,173,-,hypothetical protein BB_0265
+chr,NC_001318.1,279078,279380,-,1195103,-,BB_0266,NP_212400.2,100,-,hypothetical protein BB_0266
+chr,NC_001318.1,279407,281311,-,1195104,-,BB_0267,NP_212401.1,634,-,hypothetical protein BB_0267
+chr,NC_001318.1,281314,281793,-,1195105,-,BB_0268,NP_212402.1,159,-,hypothetical protein BB_0268
+chr,NC_001318.1,281800,282687,-,1195106,-,BB_0269,NP_212403.1,295,-,ATP-binding protein
+chr,NC_001318.1,282699,283865,-,1195107,-,BB_0270,NP_212404.1,388,-,flagellar biosynthesis regulator FlhF
+chr,NC_001318.1,283869,285962,-,1195108,flhA,BB_0271,NP_212405.1,697,-,flagellar biosynthesis protein FlhA
+chr,NC_001318.1,285971,287089,-,1195109,flhB,BB_0272,NP_212406.1,372,-,flagellar biosynthesis protein FlhB
+chr,NC_001318.1,287089,287877,-,1195110,fliR,BB_0273,NP_212407.2,262,-,flagellar biosynthetic protein FliR
+chr,NC_001318.1,287910,288173,-,1195111,fliQ,BB_0274,NP_212408.1,87,-,flagellar biosynthesis protein FliQ
+chr,NC_001318.1,288182,288946,-,1195112,fliP,BB_0275,NP_212409.1,254,-,flagellar biosynthesis protein FliP
+chr,NC_001318.1,288957,289583,-,1195113,-,BB_0276,NP_212410.1,208,-,flagellar biosynthesis protein FliZ
+chr,NC_001318.1,289576,289917,-,1195114,-,BB_0277,NP_212411.1,113,-,flagellar motor switch protein FliN
+chr,NC_001318.1,289963,291021,-,1195115,fliM,BB_0278,NP_212412.1,352,-,flagellar motor switch protein FliM
+chr,NC_001318.1,291059,291595,-,1195116,fliL,BB_0279,NP_212413.1,178,-,flagellar basal body-associated protein FliL
+chr,NC_001318.1,291644,292426,-,1195117,-,BB_0280,NP_212414.1,260,-,flagellar motor protein MotB
+chr,NC_001318.1,292426,293208,-,1195118,-,BB_0281,NP_212415.1,260,-,motility protein A
+chr,NC_001318.1,293205,293429,-,1195119,-,BB_0282,NP_212416.1,74,-,flagellar protein FlbD
+chr,NC_001318.1,293452,294780,-,1195120,-,BB_0283,NP_212417.1,442,-,flagellar hook protein FlgE
+chr,NC_001318.1,294785,295228,-,1195121,flgD,BB_0284,NP_212418.1,147,-,flagellar hook capping protein
+chr,NC_001318.1,295242,296420,-,1195122,-,BB_0285,NP_212419.2,392,-,flagellar protein
+chr,NC_001318.1,296428,297045,-,1195123,-,BB_0286,NP_212420.2,205,-,flagellar protein
+chr,NC_001318.1,297038,297469,-,1195124,-,BB_0287,NP_212421.1,143,-,flagellar protein FlbA
+chr,NC_001318.1,297466,298776,-,1195125,fliI,BB_0288,NP_212422.1,436,-,flagellum-specific ATP synthase FliI
+chr,NC_001318.1,298795,299715,-,1195126,fliH,BB_0289,NP_212423.1,306,-,flagellar assembly protein FliH
+chr,NC_001318.1,299730,300764,-,1195127,fliG,BB_0290,NP_212424.1,344,-,flagellar motor switch protein FliG
+chr,NC_001318.1,300780,302489,-,1195128,fliF,BB_0291,NP_212425.1,569,-,flagellar MS-ring protein FliF
+chr,NC_001318.1,302504,302839,-,1195129,fliE,BB_0292,NP_212426.1,111,-,flagellar hook-basal body protein FliE
+chr,NC_001318.1,302851,303309,-,1195130,flgC,BB_0293,NP_212427.1,152,-,flagellar basal body rod protein FlgC
+chr,NC_001318.1,303333,303740,-,1195131,flgB,BB_0294,NP_212428.1,135,-,flagellar basal body rod protein FlgB
+chr,NC_001318.1,303774,305120,-,1195132,hslU,BB_0295,NP_212429.2,448,-,ATP-dependent protease ATPase subunit HslU
+chr,NC_001318.1,305113,305661,-,1195133,-,BB_0296,NP_212430.1,182,-,ATP-dependent protease subunit HslV
+chr,NC_001318.1,305671,306615,-,1195134,-,BB_0297,NP_212431.2,314,-,protein smf
+chr,NC_001318.1,306625,307317,-,1195135,-,BB_0298,NP_212432.1,230,-,hypothetical protein BB_0298
+chr,NC_001318.1,307318,308517,-,1195136,ftsZ,BB_0299,NP_212433.2,399,-,cell division protein FtsZ
+chr,NC_001318.1,308539,309780,-,1195137,ftsA,BB_0300,NP_212434.1,413,-,cell division protein FtsA
+chr,NC_001318.1,309780,310523,-,1195138,-,BB_0301,NP_212435.1,247,-,cell division protein B
+chr,NC_001318.1,310559,311617,-,1195139,ftsW,BB_0302,NP_212436.2,352,-,lipid II flippase FtsW
+chr,NC_001318.1,311660,312715,-,1195140,mraY,BB_0303,NP_212437.1,351,-,phospho-N-acetylmuramoyl-pentapeptide-transferase
+chr,NC_001318.1,312729,314123,-,1195141,-,BB_0304,NP_212438.1,464,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligas
+chr,NC_001318.1,314146,314427,-,1195142,-,BB_0305,NP_212439.1,93,-,hypothetical protein BB_0305
+chr,NC_001318.1,314424,315314,-,1195143,-,BB_0306,NP_212440.1,296,-,rRNA small subunit methyltransferase H
+chr,NC_001318.1,315307,316143,-,1195144,-,BB_0307,NP_212441.1,278,-,hypothetical protein BB_0307
+chr,NC_001318.1,316140,317216,-,1195145,-,BB_0308,NP_212442.1,358,-,hypothetical protein BB_0308
+chr,NC_001318.1,317247,318005,-,1195146,-,BB_0309,NP_212443.2,252,-,hypothetical protein BB_0309
+chr,NC_001318.1,318277,319116,-,1195148,-,BB_0311,NP_212445.2,279,-,NAD kinase
+chr,NC_001318.1,319106,319636,-,1195149,-,BB_0312,NP_212446.1,176,-,purine-binding chemotaxis protein
+chr,NC_001318.1,319680,320249,-,1195150,rrmJ,BB_0313,NP_212447.2,189,-,rRNA large subunit methyltransferase
+chr,NC_001318.1,320309,321352,+,1195151,-,BB_0314,NP_212448.1,347,-,octaprenyl-diphosphate synthase
+chr,NC_001318.1,321352,322038,+,1195152,-,BB_0315,NP_212449.1,228,-,hypothetical protein BB_0315
+chr,NC_001318.1,322040,322846,-,1195153,-,BB_0316,NP_212450.1,268,-,integral membrane protein
+chr,NC_001318.1,322847,323779,-,1195154,-,BB_0317,NP_212451.1,310,-,integral membrane protein
+chr,NC_001318.1,323776,325236,-,1195155,-,BB_0318,NP_212452.1,486,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,325236,326288,-,1195156,-,BB_0319,NP_212453.1,350,-,hypothetical protein BB_0319
+chr,NC_001318.1,326469,326666,-,1195158,-,BB_0321,NP_212455.1,65,-,hypothetical protein BB_0321
+chr,NC_001318.1,326699,327757,-,1195159,-,BB_0322,NP_212456.1,352,-,hypothetical protein BB_0322
+chr,NC_001318.1,328032,329165,+,1195160,-,BB_0323,NP_212457.1,377,-,hypothetical protein BB_0323
+chr,NC_001318.1,329262,329621,+,1195161,-,BB_0324,NP_212458.1,119,-,hypothetical protein BB_0324
+chr,NC_001318.1,329643,330752,-,1195162,-,BB_0325,NP_212459.1,369,-,hypothetical protein BB_0325
+chr,NC_001318.1,330803,333598,-,1195163,-,BB_0326,NP_212460.1,931,-,hypothetical protein BB_0326
+chr,NC_001318.1,333619,334515,-,1195164,-,BB_0327,NP_212461.1,298,-,glycerol-3-phosphate O-acyltransferase
+chr,NC_001318.1,334937,336508,+,1195165,-,BB_0328,NP_212462.2,523,-,family 5 extracellular solute-binding protein
+chr,NC_001318.1,336629,338215,+,1195166,-,BB_0329,YP_008686571.1,528,-,ABC transporter substrate-binding protein
+chr,NC_001318.1,338358,339983,+,1195167,-,BB_0330,NP_212464.1,541,-,peptide ABC transporter substrate-binding protein
+chr,NC_001318.1,340062,340217,-,1195168,-,BB_0331,NP_212465.1,51,-,hypothetical protein BB_0331
+chr,NC_001318.1,340341,341261,+,1195169,-,BB_0332,NP_212466.1,306,-,peptide ABC transporter permease
+chr,NC_001318.1,341274,342323,+,1195170,-,BB_0333,NP_212467.1,349,-,peptide ABC transporter permease
+chr,NC_001318.1,342335,343207,+,1195171,-,BB_0334,NP_212468.1,290,-,peptide ABC transporter ATP-binding protein
+chr,NC_001318.1,343208,344179,+,1195172,-,BB_0335,NP_212469.1,323,-,peptide ABC transporter ATP-binding protein
+chr,NC_001318.1,344192,344932,-,1195173,-,BB_0336,YP_008686572.1,246,-,hypothetical protein BB_0336
+chr,NC_001318.1,345063,346364,+,1195174,eno,BB_0337,NP_212471.1,433,-,enolase
+chr,NC_001318.1,346431,346841,-,1195175,rpsI,BB_0338,NP_212472.1,136,-,30S ribosomal protein S9
+chr,NC_001318.1,346861,347301,-,1195176,rplM,BB_0339,NP_212473.1,146,-,50S ribosomal protein L13
+chr,NC_001318.1,347351,348160,-,1195177,-,BB_0340,NP_212474.1,269,-,hypothetical protein BB_0340
+chr,NC_001318.1,348153,349610,-,1195178,-,BB_0341,NP_212475.1,485,-,aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+chr,NC_001318.1,349600,351045,-,1195179,-,BB_0342,NP_212476.2,481,-,glutamyl-tRNA(Gln) amidotransferase subunit A
+chr,NC_001318.1,351056,351331,-,1195180,gatC,BB_0343,NP_212477.1,91,-,glutamyl-tRNA(Gln) amidotransferase subunit C
+chr,NC_001318.1,351341,353437,-,1195181,-,BB_0344,NP_212478.2,698,-,DNA helicase
+chr,NC_001318.1,353440,354636,-,1195182,-,BB_0345,NP_212479.1,398,-,hypothetical protein BB_0345
+chr,NC_001318.1,354648,355298,-,1195183,-,BB_0346,NP_212480.1,216,-,export chaperone
+chr,NC_001318.1,355491,356909,+,1195184,-,BB_0347,NP_212481.2,472,-,fibronectin/fibrinogen-binding protein
+chr,NC_001318.1,357007,358440,+,1195185,pyk,BB_0348,NP_212482.1,477,-,pyruvate kinase
+chr,NC_001318.1,358458,359198,+,1195186,-,BB_0349,NP_212483.1,246,-,hypothetical protein BB_0349
+chr,NC_001318.1,359217,359495,-,1195187,rpmB,BB_0350,NP_212484.1,92,-,50S ribosomal protein L28
+chr,NC_001318.1,359513,361078,-,1195188,-,BB_0351,NP_212485.2,521,-,hypothetical protein BB_0351
+chr,NC_001318.1,361188,362321,+,1195189,-,BB_0352,NP_212486.1,377,-,hypothetical protein BB_0352
+chr,NC_001318.1,362318,364117,-,1195190,-,BB_0353,NP_212487.1,599,-,membrane protein
+chr,NC_001318.1,364130,364972,-,1195191,-,BB_0354,NP_212488.2,280,-,hypothetical protein BB_0354
+chr,NC_001318.1,365115,365603,-,1195192,-,BB_0355,NP_212489.1,162,-,transcription factor
+chr,NC_001318.1,366229,366960,-,1195195,-,BB_0358,NP_212492.1,243,-,rRNA small subunit methyltransferase E
+chr,NC_001318.1,366964,368391,-,1195196,-,BB_0359,YP_008686573.1,475,-,peptidase S41
+chr,NC_001318.1,368456,368881,+,1195197,-,BB_0360,NP_212494.1,141,-,hypothetical protein BB_0360
+chr,NC_001318.1,368885,370027,+,1195198,-,BB_0361,NP_212495.1,380,-,ATP-binding protein
+chr,NC_001318.1,370027,371013,+,1195199,lgt,BB_0362,NP_212496.1,328,-,prolipoprotein diacylglyceryl transferase
+chr,NC_001318.1,371034,373046,+,1195200,-,BB_0363,NP_212497.1,670,-,hypothetical protein BB_0363
+chr,NC_001318.1,373140,373520,+,1195201,mgsA,BB_0364,NP_212498.1,126,-,methylglyoxal synthase
+chr,NC_001318.1,373567,374151,-,1195202,la7,BB_0365,NP_212499.1,194,-,lipoprotein LA7
+chr,NC_001318.1,374277,375653,+,1195203,-,BB_0366,NP_212500.1,458,-,aminopeptidase
+chr,NC_001318.1,375661,375939,+,1195204,-,BB_0367,NP_212501.1,92,-,hypothetical protein BB_0367
+chr,NC_001318.1,375961,377019,-,1195205,-,BB_0368,NP_212502.2,352,-,glycerol-3-phosphate dehydrogenase
+chr,NC_001318.1,377039,379258,-,1195206,-,BB_0369,NP_212503.2,739,-,ATP-dependent Clp protease subunit A
+chr,NC_001318.1,379341,380558,-,1195207,tyrS,BB_0370,NP_212504.1,405,-,tyrosine--tRNA ligase
+chr,NC_001318.1,380555,381892,-,1195208,glyS,BB_0371,NP_212505.1,445,-,glycine--tRNA ligase
+chr,NC_001318.1,381910,383382,-,1195209,gltX,BB_0372,NP_212506.1,490,-,glutamate--tRNA ligase
+chr,NC_001318.1,383395,384162,-,1195210,-,BB_0373,NP_212507.1,255,-,hypothetical protein BB_0373
+chr,NC_001318.1,384287,385426,+,1195211,-,BB_0374,NP_212508.1,379,-,hypothetical protein BB_0374
+chr,NC_001318.1,385449,386162,+,1195212,pfs,BB_0375,NP_212509.1,237,-,nucleosidase
+chr,NC_001318.1,386159,387337,+,1195213,metK,BB_0376,NP_212510.1,392,-,S-adenosylmethionine synthetase
+chr,NC_001318.1,387334,387807,+,1195214,luxS,BB_0377,NP_212511.2,157,-,S-ribosylhomocysteine lyase
+chr,NC_001318.1,387818,388480,-,1195215,-,BB_0378,NP_212512.1,220,-,hypothetical protein BB_0378
+chr,NC_001318.1,388507,388926,-,1195216,-,BB_0379,NP_212513.2,139,-,HIT family nucleosidase
+chr,NC_001318.1,388977,390341,-,1195217,mgtE,BB_0380,NP_212514.1,454,-,Mg2+ transport protein
+chr,NC_001318.1,390392,391819,-,1195218,-,BB_0381,NP_212515.1,475,-,hypothetical protein BB_0381
+chr,NC_001318.1,391932,392957,-,1195219,bmpB,BB_0382,NP_212516.1,341,-,basic membrane protein B
+chr,NC_001318.1,393044,394063,-,1195220,bmpA,BB_0383,NP_212517.1,339,-,basic membrane protein A
+chr,NC_001318.1,394105,395166,-,1195221,bmpC,BB_0384,NP_212518.1,353,-,basic membrane protein C
+chr,NC_001318.1,395481,396506,-,1195222,bmpD,BB_0385,NP_212519.2,341,-,basic membrane protein D
+chr,NC_001318.1,396604,397077,-,1195223,rpsG,BB_0386,NP_212520.1,157,-,30S ribosomal protein S7
+chr,NC_001318.1,397102,397476,-,1195224,rpsL,BB_0387,NP_212521.1,124,-,30S ribosomal protein S12
+chr,NC_001318.1,397544,401677,-,1195225,rpoC,BB_0388,NP_212522.1,1377,-,DNA-directed RNA polymerase subunit beta\'
+chr,NC_001318.1,401693,405160,-,1195226,rpoB,BB_0389,YP_008686574.1,1155,-,DNA-directed RNA polymerase subunit beta
+chr,NC_001318.1,405243,405617,-,1195227,rplL,BB_0390,NP_212524.1,124,-,50S ribosomal protein L7/L12
+chr,NC_001318.1,405688,406176,-,1195228,-,BB_0391,NP_212525.2,162,-,50S ribosomal protein L10
+chr,NC_001318.1,406181,406861,-,1195229,rplA,BB_0392,NP_212526.1,226,-,50S ribosomal protein L1
+chr,NC_001318.1,406861,407292,-,1195230,rplK,BB_0393,NP_212527.1,143,-,50S ribosomal protein L11
+chr,NC_001318.1,407344,407898,-,1195231,nusG,BB_0394,NP_212528.1,184,-,transcription termination/antitermination factor
+chr,NC_001318.1,407922,408092,-,1195232,secE,BB_0395,NP_212529.1,56,-,protein translocase subunit SecE
+chr,NC_001318.1,408201,408380,-,1195234,rpmG,BB_0396,NP_212530.1,59,-,50S ribosomal protein L33
+chr,NC_001318.1,408554,409402,-,1195235,-,BB_0397,NP_212531.1,282,-,hypothetical protein BB_0397
+chr,NC_001318.1,409416,410447,-,1195236,-,BB_0398,NP_212532.1,343,-,lipoprotein
+chr,NC_001318.1,410787,411446,+,1195237,-,BB_0399,NP_212533.1,219,-,hypothetical protein BB_0399
+chr,NC_001318.1,411456,413006,-,1195238,-,BB_0400,NP_212534.1,516,-,hypothetical protein BB_0400
+chr,NC_001318.1,413113,414315,+,1195239,-,BB_0401,NP_212535.1,400,-,glutamate transporter
+chr,NC_001318.1,414327,415793,-,1195240,proS,BB_0402,NP_212536.1,488,-,proline--tRNA ligase
+chr,NC_001318.1,415846,416478,-,1195241,-,BB_0403,NP_212537.2,210,-,hypothetical protein BB_0403
+chr,NC_001318.1,416689,417105,+,1195242,-,BB_0404,NP_212538.1,138,-,hypothetical protein BB_0404
+chr,NC_001318.1,417102,417713,+,1195243,-,BB_0405,NP_212539.1,203,-,hypothetical protein BB_0405
+chr,NC_001318.1,417724,418335,+,1195244,-,BB_0406,NP_212540.1,203,-,hypothetical protein BB_0406
+chr,NC_001318.1,418388,419506,-,1195245,manA,BB_0407,NP_212541.1,372,-,mannose-6-phosphate isomerase
+chr,NC_001318.1,419503,421380,-,1195246,-,BB_0408,NP_212542.1,625,-,PTS system fructose-specific transproter subunit IIABC
+chr,NC_001318.1,421554,422183,+,1195247,-,BB_0409,NP_212543.1,209,-,hypothetical protein BB_0409
+chr,NC_001318.1,423055,423834,+,1195250,-,BB_0412,NP_212546.1,259,-,membrane protein
+chr,NC_001318.1,423822,424442,-,1195251,-,BB_0413,NP_212547.2,206,-,integral membrane protein
+chr,NC_001318.1,424694,425551,+,1195252,-,BB_0414,NP_212548.1,285,-,chemotaxis protein methyltransferase
+chr,NC_001318.1,425584,426711,+,1195253,-,BB_0415,NP_212549.1,375,-,chemotaxis protein CheB
+chr,NC_001318.1,426736,427950,+,1195254,-,BB_0416,NP_212550.1,404,-,pheromone shutdown protein
+chr,NC_001318.1,427987,428622,+,1195255,-,BB_0417,NP_212551.1,211,-,adenylate kinase
+chr,NC_001318.1,428646,429674,+,1195256,-,BB_0418,NP_212552.1,342,-,hypothetical protein BB_0418
+chr,NC_001318.1,429693,430616,-,1195257,-,BB_0419,NP_212553.1,307,-,response regulator
+chr,NC_001318.1,430619,435103,-,1195258,-,BB_0420,NP_212554.1,1494,-,sensory transduction histidine kinase
+chr,NC_001318.1,441713,442552,-,1195263,-,BB_0421,NP_212555.1,279,-,haloacid dehalogenase-like hydrolase
+chr,NC_001318.1,442688,443248,-,1195264,-,BB_0422,NP_212556.1,186,-,3-methyladenine DNA glycosylase
+chr,NC_001318.1,446327,446875,-,1195271,-,BB_0426,NP_212560.2,182,-,nucleoside 2-deoxyribosyltransferase superfamily protein
+chr,NC_001318.1,446969,447736,-,1195272,-,BB_0427,NP_212561.2,255,-,rRNA small subunit methyltransferase I
+chr,NC_001318.1,447855,448172,+,1195273,-,BB_0428,NP_212562.1,105,-,hypothetical protein BB_0428
+chr,NC_001318.1,448202,448591,-,1195274,-,BB_0429,NP_212563.1,129,-,hypothetical protein BB_0429
+chr,NC_001318.1,448708,449310,+,1195275,-,BB_0430,NP_212564.2,200,-,hypothetical protein BB_0430
+chr,NC_001318.1,449419,450171,+,1195276,-,BB_0431,NP_212565.1,250,-,CobQ/CobB/MinD/ParA nucleotide binding domain-containing protein
+chr,NC_001318.1,450174,450887,+,1195277,-,BB_0432,YP_008686575.1,237,-,hypothetical protein BB_0432
+chr,NC_001318.1,451139,451921,-,1195279,-,BB_0434,NP_212568.1,260,-,chromosome-partitioning protein ParB
+chr,NC_001318.1,452040,454472,-,1195280,gyrA,BB_0435,NP_212569.1,810,-,DNA gyrase subunit A
+chr,NC_001318.1,454484,456388,-,1195281,gyrB,BB_0436,NP_212570.2,634,-,DNA gyrase subunit B
+chr,NC_001318.1,456576,458036,+,1195282,dnaA,BB_0437,NP_212571.1,486,-,chromosomal replication initiation protein
+chr,NC_001318.1,458277,459434,+,1195283,dnaN,BB_0438,NP_212572.1,385,-,DNA polymerase III subunit beta
+chr,NC_001318.1,459525,459824,+,1195284,-,BB_0439,NP_212573.1,99,-,hypothetical protein BB_0439
+chr,NC_001318.1,459916,460071,+,1195285,rpmH,BB_0440,NP_212574.1,51,-,50S ribosomal protein L34
+chr,NC_001318.1,460052,460411,+,1195286,rnpA,BB_0441,NP_212575.1,119,-,ribonuclease P protein component
+chr,NC_001318.1,460398,462032,+,1195287,-,BB_0442,YP_008686576.1,544,-,membrane protein insertase YidC
+chr,NC_001318.1,462045,462773,+,1195288,-,BB_0443,NP_212577.1,242,-,spoIIIJ-associtated protein
+chr,NC_001318.1,462819,463886,+,1195289,-,BB_0444,NP_212578.1,355,-,nucleotide sugar epimerase
+chr,NC_001318.1,464053,465132,+,1195290,fbaA,BB_0445,NP_212579.1,359,-,fructose-bisphosphate aldolase
+chr,NC_001318.1,465518,467278,-,1195291,aspS,BB_0446,NP_212580.2,586,-,aspartate--tRNA ligase
+chr,NC_001318.1,467282,469387,-,1195292,-,BB_0447,NP_212581.1,701,-,Na+/H+ antiporter
+chr,NC_001318.1,469390,469665,-,1195293,-,BB_0448,NP_212582.1,91,-,phosphocarrier protein HPr
+chr,NC_001318.1,469678,469971,-,1195294,-,BB_0449,NP_212583.1,97,-,hypothetical protein BB_0449
+chr,NC_001318.1,469961,471220,-,1195295,rpoN,BB_0450,NP_212584.1,419,-,RNA polymerase sigma-54 factor
+chr,NC_001318.1,471223,471756,-,1195296,-,BB_0451,NP_212585.1,177,-,chromate transport protein
+chr,NC_001318.1,471771,472358,-,1195297,-,BB_0452,NP_212586.2,195,-,chromate transporter superfamily protein
+chr,NC_001318.1,472566,473408,+,1195298,-,BB_0453,NP_212587.1,280,-,small conductance mechanosensitive ion channel
+chr,NC_001318.1,473405,474556,-,1195299,-,BB_0454,NP_212588.1,383,-,lipopolysaccharide biosynthesis-like protein
+chr,NC_001318.1,474613,475602,+,1195300,-,BB_0455,NP_212589.1,329,-,hypothetical protein BB_0455
+chr,NC_001318.1,475606,476211,+,1195301,-,BB_0456,NP_212590.1,201,-,hypothetical protein BB_0456
+chr,NC_001318.1,476263,478005,-,1195302,uvrC,BB_0457,NP_212591.2,580,-,excinuclease ABC subunit C
+chr,NC_001318.1,478196,479716,+,1195303,-,BB_0458,YP_008686577.1,506,-,hypothetical protein BB_0458
+chr,NC_001318.1,479709,481019,+,1195304,-,BB_0459,NP_212593.1,436,-,hypothetical protein BB_0459
+chr,NC_001318.1,481344,482057,-,1195305,-,BB_0460,NP_212594.1,237,-,lipoprotein
+chr,NC_001318.1,482600,484282,+,1195307,-,BB_0461,NP_212595.1,560,-,DNA polymerase III subunits gamma and tau
+chr,NC_001318.1,484287,484586,+,1195308,efbC,BB_0462,NP_212596.2,99,-,nucleoid-associated protein EbfC
+chr,NC_001318.1,484757,485266,+,1195309,-,BB_0463,NP_212597.1,169,-,nucleoside diphosphate kinase
+chr,NC_001318.1,485550,486077,+,1195310,-,BB_0464,NP_212598.1,175,-,hypothetical protein BB_0464
+chr,NC_001318.1,486074,486769,+,1195311,-,BB_0465,NP_212599.1,231,-,hypothetical protein BB_0465
+chr,NC_001318.1,486747,487538,+,1195312,-,BB_0466,NP_212600.2,263,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,487535,488224,+,1195313,-,BB_0467,NP_212601.1,229,-,laccase domain-containing protein
+chr,NC_001318.1,488226,488972,+,1195314,-,BB_0468,NP_212602.1,248,-,hypothetical protein BB_0468
+chr,NC_001318.1,488983,489495,+,1195315,lspA,BB_0469,NP_212603.1,170,-,lipoprotein signal peptidase
+chr,NC_001318.1,489733,490554,+,1195317,-,BB_0471,NP_212605.1,273,-,hypothetical protein BB_0471
+chr,NC_001318.1,490644,491927,+,1195318,murA,BB_0472,NP_212606.2,427,-,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+chr,NC_001318.1,492588,493952,+,1195319,-,BB_0473,NP_212607.1,454,-,integral membrane protein
+chr,NC_001318.1,494150,494539,-,1195321,-,BB_0475,NP_212609.2,129,-,lipoprotein
+chr,NC_001318.1,495033,496217,+,1195322,tuf,BB_0476,NP_212610.2,394,-,elongation factor Tu
+chr,NC_001318.1,496268,496579,+,1195323,rpsJ,BB_0477,NP_212611.1,103,-,30S ribosomal protein S10
+chr,NC_001318.1,496615,497235,+,1195324,rplC,BB_0478,NP_212612.1,206,-,50S ribosomal protein L3
+chr,NC_001318.1,497245,497874,+,1195325,rplD,BB_0479,NP_212613.1,209,-,50S ribosomal protein L4
+chr,NC_001318.1,497895,498191,+,1195326,rplW,BB_0480,NP_212614.2,98,-,50S ribosomal protein L23
+chr,NC_001318.1,498213,499046,+,1195327,rplB,BB_0481,NP_212615.1,277,-,50S ribosomal protein L2
+chr,NC_001318.1,499056,499334,+,1195328,rpsS,BB_0482,NP_212616.1,92,-,30S ribosomal protein S19
+chr,NC_001318.1,499341,499703,+,1195329,rplV,BB_0483,NP_212617.1,120,-,50S ribosomal protein L22
+chr,NC_001318.1,499707,500588,+,1195330,rpsC,BB_0484,NP_212618.1,293,-,30S ribosomal protein S3
+chr,NC_001318.1,500593,501009,+,1195331,rplP,BB_0485,NP_212619.1,138,-,50S ribosomal protein L16
+chr,NC_001318.1,501015,501212,+,1195332,rpmC,BB_0486,NP_212620.2,65,-,50S ribosomal protein L29
+chr,NC_001318.1,501215,501469,+,1195333,rpsQ,BB_0487,NP_212621.1,84,-,30S ribosomal protein S17
+chr,NC_001318.1,501497,501865,+,1195334,rplN,BB_0488,NP_212622.2,122,-,50S ribosomal protein L14
+chr,NC_001318.1,501880,502185,+,1195335,rplX,BB_0489,NP_212623.1,101,-,50S ribosomal protein L24
+chr,NC_001318.1,502191,502739,+,1195336,-,BB_0490,NP_212624.1,182,-,50S ribosomal protein L5
+chr,NC_001318.1,502756,502941,+,1195337,rpsN,BB_0491,NP_212625.2,61,-,30S ribosomal protein S14
+chr,NC_001318.1,502951,503349,+,1195338,rpsH,BB_0492,NP_212626.1,132,-,30S ribosomal protein S8
+chr,NC_001318.1,503366,503908,+,1195339,-,BB_0493,NP_212627.1,180,-,50S ribosomal protein L6
+chr,NC_001318.1,503926,504285,+,1195340,rplR,BB_0494,NP_212628.1,119,-,50S ribosomal protein L18
+chr,NC_001318.1,504298,504795,+,1195341,rpsE,BB_0495,NP_212629.1,165,-,30S ribosomal protein S5
+chr,NC_001318.1,504799,505104,+,1195342,-,BB_0496,NP_212630.1,101,-,50S ribosomal protein L30
+chr,NC_001318.1,505104,505541,+,1195343,rplO,BB_0497,NP_212631.1,145,-,50S ribosomal protein L15
+chr,NC_001318.1,505554,506858,+,1195344,-,BB_0498,NP_212632.1,434,-,protein translocase subunit SecY
+chr,NC_001318.1,506865,506984,+,1195345,rpmJ,BB_0499,NP_212633.1,39,-,50S ribosomal protein L36
+chr,NC_001318.1,507002,507379,+,1195346,rpsM,BB_0500,NP_212634.1,125,-,30S ribosomal protein S13
+chr,NC_001318.1,507406,507798,+,1195347,rpsK,BB_0501,NP_212635.2,130,-,30S ribosomal protein S11
+chr,NC_001318.1,507814,508848,+,1195348,rpoA,BB_0502,NP_212636.2,344,-,DNA-directed RNA polymerase subunit alpha
+chr,NC_001318.1,508870,509241,+,1195349,rplQ,BB_0503,NP_212637.1,123,-,50S ribosomal protein L17
+chr,NC_001318.1,509314,510846,+,1195350,-,BB_0504,NP_212638.1,510,-,ribonuclease Y
+chr,NC_001318.1,510836,511624,+,1195351,-,BB_0505,NP_212639.1,262,-,hypothetical protein BB_0505
+chr,NC_001318.1,511605,512396,+,11493326,-,BB_0506,YP_008686578.1,263,-,hypothetical protein BB_0506
+chr,NC_001318.1,512393,513139,-,1195353,-,BB_0507,NP_212641.2,248,-,hypothetical protein BB_0507
+chr,NC_001318.1,513226,514527,+,1195354,engA,BB_0508,NP_212642.1,433,-,GTPase Der
+chr,NC_001318.1,514524,515783,+,1195355,-,BB_0509,NP_212643.1,419,-,hypothetical protein BB_0509
+chr,NC_001318.1,516493,522993,+,1195358,-,BB_0512,NP_212646.1,2166,-,hypothetical protein BB_0512
+chr,NC_001318.1,522990,524576,+,1195359,-,BB_0513,YP_008686579.1,528,-,phenylalanine--tRNA ligase subunit alpha
+chr,NC_001318.1,524554,526254,+,1195360,pheT,BB_0514,NP_212648.1,566,-,phenylalanine--tRNA sligase subunit beta
+chr,NC_001318.1,526325,527305,+,1195361,trxB,BB_0515,YP_008686580.1,326,-,thioredoxin reductase
+chr,NC_001318.1,528104,529198,-,1195363,dnaJ,BB_0517,NP_212651.1,364,-,chaperone protein DnaJ
+chr,NC_001318.1,529198,531105,-,1195364,dnaK,BB_0518,NP_212652.1,635,-,chaperone protein DnaK
+chr,NC_001318.1,531129,531692,-,1195365,grpE,BB_0519,NP_212653.1,187,-,protein GrpE
+chr,NC_001318.1,534301,535155,+,1195370,-,BB_0524,NP_212658.1,284,-,inositol monophosphatase
+chr,NC_001318.1,535178,535600,-,1195371,-,BB_0525,NP_212659.1,140,-,hypothetical protein BB_0525
+chr,NC_001318.1,535704,537527,+,1195372,-,BB_0526,NP_212660.1,607,-,hypothetical protein BB_0526
+chr,NC_001318.1,537544,538308,+,1195373,-,BB_0527,NP_212661.2,254,-,type III pantothenate kinase
+chr,NC_001318.1,538328,539275,-,1195374,-,BB_0528,NP_212662.1,315,-,aldose reductase
+chr,NC_001318.1,540159,540773,-,1195377,-,BB_0531,YP_008853941.1,204,-,hypothetical protein BB_0531
+chr,NC_001318.1,542263,543024,+,1195379,-,BB_0533,NP_212667.1,253,-,protein PhnP
+chr,NC_001318.1,543049,543816,+,1195380,xth,BB_0534,NP_212668.1,255,-,exodeoxyribonuclease III
+chr,NC_001318.1,543832,544605,+,1195381,-,BB_0535,NP_212669.1,257,-,hypothetical protein BB_0535
+chr,NC_001318.1,544586,547387,+,1195382,-,BB_0536,NP_212670.1,933,-,zinc protease
+chr,NC_001318.1,547846,548490,-,1195384,-,BB_0537,NP_212671.1,214,-,hypothetical protein BB_0537
+chr,NC_001318.1,548487,548885,-,1195385,-,BB_0538,NP_212672.1,132,-,hypothetical protein BB_0538
+chr,NC_001318.1,548920,549618,-,1195386,-,BB_0539,NP_212673.1,232,-,hypothetical protein BB_0539
+chr,NC_001318.1,549642,551723,-,1195387,fusA,BB_0540,NP_212674.1,693,-,elongation factor G
+chr,NC_001318.1,552440,553018,+,1195389,-,BB_0542,YP_008686581.1,192,-,hypothetical protein BB_0542
+chr,NC_001318.1,553139,553789,+,1195390,-,BB_0543,NP_212677.2,216,-,hypothetical protein BB_0543
+chr,NC_001318.1,553992,555212,+,1195391,-,BB_0544,NP_212678.1,406,-,phosphoribosylpyrophosphate synthetase
+chr,NC_001318.1,555216,556580,+,1195392,-,BB_0545,NP_212679.1,454,-,xylulokinase
+chr,NC_001318.1,556563,557423,-,1195393,-,BB_0546,NP_212680.1,286,-,hypothetical protein BB_0546
+chr,NC_001318.1,557407,558024,-,1195394,coaE,BB_0547,NP_212681.1,205,-,dephospho-CoA kinase
+chr,NC_001318.1,558006,560732,-,1195395,polA,BB_0548,NP_212682.1,908,-,DNA polymerase I
+chr,NC_001318.1,560729,561127,-,1195396,-,BB_0549,NP_212683.1,132,-,hypothetical protein BB_0549
+chr,NC_001318.1,561117,561554,-,1195397,fliS,BB_0550,NP_212684.1,145,-,flagellar protein FliS
+chr,NC_001318.1,561563,561943,-,1195398,-,BB_0551,NP_212685.2,126,-,protein CheY
+chr,NC_001318.1,562185,564167,+,1195399,ligA,BB_0552,NP_212686.1,660,-,DNA ligase
+chr,NC_001318.1,564188,565681,-,1195400,-,BB_0553,YP_008853942.1,497,-,hypothetical protein BB_0553
+chr,NC_001318.1,565955,567823,+,1195401,-,BB_0554,NP_212688.2,622,-,hypothetical protein BB_0554
+chr,NC_001318.1,567810,568277,+,1195402,-,BB_0555,NP_212689.1,155,-,hypothetical protein BB_0555
+chr,NC_001318.1,568270,569139,+,1195403,-,BB_0556,NP_212690.1,289,-,hypothetical protein BB_0556
+chr,NC_001318.1,569278,569538,+,1195404,-,BB_0557,NP_212691.1,86,-,phosphocarrier protein HPr
+chr,NC_001318.1,569559,571280,+,1195405,ptsP,BB_0558,NP_212692.1,573,-,phosphoenolpyruvate-protein phosphatase
+chr,NC_001318.1,571283,571852,+,1195406,-,BB_0559,NP_212693.1,189,-,PTS system glucose-specific transporter subunit IIA
+chr,NC_001318.1,571890,573740,-,1195407,-,BB_0560,NP_212694.2,616,-,chaperone protein HtpG
+chr,NC_001318.1,573853,575247,+,1195408,gnd,BB_0561,NP_212695.1,464,-,6-phosphogluconate dehydrogenase
+chr,NC_001318.1,575274,575816,-,1195409,-,BB_0562,NP_212696.1,180,-,hypothetical protein BB_0562
+chr,NC_001318.1,575981,576499,-,1195410,-,BB_0563,NP_212697.2,172,-,hypothetical protein BB_0563
+chr,NC_001318.1,576582,577187,-,1195411,-,BB_0564,NP_212698.1,201,-,hypothetical protein BB_0564
+chr,NC_001318.1,577395,577937,+,1195412,-,BB_0565,NP_212699.1,180,-,purine-binding chemotaxis protein
+chr,NC_001318.1,577950,578261,+,1195413,-,BB_0566,NP_212700.1,103,-,hypothetical protein BB_0566
+chr,NC_001318.1,578277,580421,+,1195414,-,BB_0567,NP_212701.1,714,-,chemotaxis histidine kinase
+chr,NC_001318.1,580486,581643,+,1195415,-,BB_0568,NP_212702.1,385,-,chemotaxis response regulator
+chr,NC_001318.1,581645,583417,+,1195416,-,BB_0569,NP_212703.1,590,-,hypothetical protein BB_0569
+chr,NC_001318.1,583458,583832,+,1195417,-,BB_0570,NP_212704.1,124,-,chemotaxis response regulator
+chr,NC_001318.1,584191,584880,-,1195418,-,BB_0571,NP_212705.1,229,-,uridylate kinase
+chr,NC_001318.1,585080,586156,+,1195419,-,BB_0572,NP_212706.1,358,-,glycosyl transferase
+chr,NC_001318.1,586218,587024,+,1195420,-,BB_0573,YP_008686582.1,268,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,587031,587882,+,1195421,-,BB_0574,NP_212708.1,283,-,integral membrane protein
+chr,NC_001318.1,588066,589667,+,1195422,pyrG,BB_0575,NP_212709.1,533,-,CTP synthetase
+chr,NC_001318.1,589684,590208,-,1195423,-,BB_0576,NP_212710.2,174,-,hypothetical protein BB_0576
+chr,NC_001318.1,590348,590935,+,1195424,-,BB_0577,NP_212711.1,195,-,hypothetical protein BB_0577
+chr,NC_001318.1,591188,592357,+,1195425,-,BB_0578,NP_212712.1,389,-,methyl-accepting chemotaxis protein
+chr,NC_001318.1,592446,595931,+,1195426,-,BB_0579,NP_212713.1,1161,-,DNA polymerase III subunit alpha
+chr,NC_001318.1,595943,596521,+,1195427,-,BB_0580,NP_212714.1,192,-,integral membrane protein
+chr,NC_001318.1,596531,598591,+,1195428,recG,BB_0581,NP_212715.1,686,-,ATP-dependent DNA helicase RecG
+chr,NC_001318.1,598588,599376,-,1195429,-,BB_0582,NP_212716.1,262,-,carboxypeptidase
+chr,NC_001318.1,599495,600844,+,1195430,-,BB_0583,NP_212717.1,449,-,integral membrane protein
+chr,NC_001318.1,601010,602344,+,1195431,-,BB_0584,NP_212718.2,444,-,integral membrane protein
+chr,NC_001318.1,602374,603729,+,1195432,murD,BB_0585,NP_212719.1,451,-,UDP-N-acetylmuramoylalanine--D-glutamate ligase
+chr,NC_001318.1,603726,604769,-,1195433,-,BB_0586,NP_212720.1,347,-,FemA protein
+chr,NC_001318.1,604779,606983,-,1195434,metG,BB_0587,NP_212721.1,734,-,methionine--tRNA ligase
+chr,NC_001318.1,607138,607935,+,1195435,-,BB_0588,NP_212722.1,265,-,MTA/SAH nucleosidase
+chr,NC_001318.1,608020,609078,+,1195436,pta,BB_0589,YP_008686583.1,352,-,phosphate acetyltransferase
+chr,NC_001318.1,609061,609906,-,1195437,ksgA,BB_0590,NP_212724.1,281,-,rRNA small subunit methyltransferase A
+chr,NC_001318.1,609943,611193,-,1195438,-,BB_0591,NP_212725.1,416,-,competence locus E
+chr,NC_001318.1,611309,612022,+,1195439,-,BB_0592,NP_212726.1,237,-,hypothetical protein BB_0592
+chr,NC_001318.1,612048,613985,+,1195440,-,BB_0593,NP_212727.1,645,-,long-chain-fatty-acid CoA ligase
+chr,NC_001318.1,614014,615771,-,1195441,argS,BB_0594,NP_212728.2,585,-,arginine--tRNA ligase
+chr,NC_001318.1,615764,616390,-,1195442,-,BB_0595,NP_212729.1,208,-,hypothetical protein BB_0595
+chr,NC_001318.1,616412,618559,-,1195443,-,BB_0596,NP_212730.1,715,-,methyl-accepting chemotaxis protein
+chr,NC_001318.1,618828,621035,+,1195444,-,BB_0597,NP_212731.1,735,-,methyl-accepting chemotaxis protein
+chr,NC_001318.1,621045,621953,-,1195445,murB,BB_0598,NP_212732.1,302,-,UDP-N-acetylenolpyruvoylglucosamine reductase
+chr,NC_001318.1,622005,623447,+,1195446,cysS,BB_0599,NP_212733.1,480,-,cysteine--tRNA ligase
+chr,NC_001318.1,623451,625007,+,1195447,-,BB_0600,NP_212734.1,518,-,hypothetical protein BB_0600
+chr,NC_001318.1,625007,626260,+,1195448,glyA,BB_0601,NP_212735.1,417,-,serine hydroxymethyltransferase
+chr,NC_001318.1,626286,627038,+,1195449,-,BB_0602,NP_212736.1,250,-,chaperonin
+chr,NC_001318.1,627092,628948,-,1195450,p66,BB_0603,NP_212737.1,618,-,integral outer membrane protein p66
+chr,NC_001318.1,629196,630698,-,1195451,-,BB_0604,NP_212738.1,500,-,L-lactate permease
+chr,NC_001318.1,630796,631986,+,1195452,-,BB_0605,NP_212739.2,396,-,serine-type D-Ala-D-Ala carboxypeptidase
+chr,NC_001318.1,631991,632482,+,1195453,-,BB_0606,NP_212740.1,163,-,chemoreceptor glutamine deamidase CheD
+chr,NC_001318.1,632485,634464,+,1195454,pcrA,BB_0607,NP_212741.1,659,-,ATP-dependent DNA helicase
+chr,NC_001318.1,634581,636011,+,1195455,-,BB_0608,NP_212742.1,476,-,aminoacyl-histidine dipeptidase
+chr,NC_001318.1,636593,637957,+,1195459,tig,BB_0610,NP_212744.1,454,-,trigger factor
+chr,NC_001318.1,637972,638556,+,1195460,clpP,BB_0611,NP_212745.2,194,-,ATP-dependent Clp protease proteolytic subunit
+chr,NC_001318.1,638580,639872,+,1195461,clpX,BB_0612,NP_212746.1,430,-,ATP-dependent protease ATP-binding subunit ClpX
+chr,NC_001318.1,639859,642249,+,1195462,lon,BB_0613,NP_212747.2,796,-,ATP-dependent protease La
+chr,NC_001318.1,642289,642441,+,1195463,-,BB_0614,NP_212748.1,50,-,hypothetical protein BB_0614
+chr,NC_001318.1,642500,643126,-,1195464,rpsD,BB_0615,NP_212749.2,208,-,30S ribosomal protein S4
+chr,NC_001318.1,643295,644650,-,1195465,-,BB_0616,NP_212750.1,451,-,integral membrane protein
+chr,NC_001318.1,644772,645140,+,1195466,-,BB_0617,NP_212751.1,122,-,hypothetical protein BB_0617
+chr,NC_001318.1,645137,645601,-,1195467,cdd,BB_0618,NP_212752.1,154,-,cytidine deaminase
+chr,NC_001318.1,645719,646681,+,1195468,-,BB_0619,NP_212753.2,320,-,DHH family protein
+chr,NC_001318.1,646659,648254,-,1195469,-,BB_0620,NP_212754.2,531,-,beta-glucosidase
+chr,NC_001318.1,648553,649107,+,1195471,-,BB_0621,NP_212755.1,184,-,4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+chr,NC_001318.1,649170,650387,-,1195472,ackA,BB_0622,NP_212756.2,405,-,acetate kinase
+chr,NC_001318.1,650413,653790,-,1195473,mfd,BB_0623,NP_212757.1,1125,-,transcription-repair coupling factor
+chr,NC_001318.1,653887,654849,+,1195474,-,BB_0624,NP_212758.1,320,-,hypothetical protein BB_0624
+chr,NC_001318.1,654863,656902,+,1195475,-,BB_0625,NP_212759.2,679,-,N-acetylmuramoyl-L-alanine amidase
+chr,NC_001318.1,656998,657543,-,1195477,rnmV,BB_0626,NP_212760.1,181,-,ribonuclease M5
+chr,NC_001318.1,657546,658817,-,1195478,-,BB_0627,YP_008686584.1,423,-,aminopeptidase
+chr,NC_001318.1,658898,659623,+,1195479,-,BB_0628,NP_212762.1,241,-,lipoprotein
+chr,NC_001318.1,659644,661515,-,1195480,-,BB_0629,NP_212763.2,623,-,PTS system fructose-specific transporter subunit IIABC
+chr,NC_001318.1,661606,662529,+,1195481,pfkB,BB_0630,NP_212764.1,307,-,1-phosphofructokinase
+chr,NC_001318.1,662603,662917,-,1195482,-,BB_0631,NP_212765.1,104,-,hypothetical protein BB_0631
+chr,NC_001318.1,663179,665011,-,1195484,recD,BB_0632,NP_212766.1,610,-,exodeoxyribonuclease V subunit alpha
+chr,NC_001318.1,665008,668517,-,1195485,recB,BB_0633,NP_212767.1,1169,-,exodeoxyribonuclease V subunit beta
+chr,NC_001318.1,671767,673167,-,1195487,pncB,BB_0635,NP_212769.2,466,-,nicotinate phosphoribosyltransferase
+chr,NC_001318.1,673342,674778,+,1195488,zwf,BB_0636,NP_212770.1,478,-,glucose-6-phosphate 1-dehydrogenase
+chr,NC_001318.1,675035,676378,+,1195489,-,BB_0637,NP_212771.2,447,-,Na+/H+ antiporter family
+chr,NC_001318.1,676472,677860,+,1195490,-,BB_0638,NP_212772.1,462,-,Na+/H+ antiporter
+chr,NC_001318.1,677892,678938,-,1195491,-,BB_0639,NP_212773.1,348,-,spermidine/putrescine ABC transporter substrate-binding protein
+chr,NC_001318.1,678959,679750,-,1195492,-,BB_0640,NP_212774.1,263,-,spermidine/putrescine ABC transporter permease
+chr,NC_001318.1,679754,680557,-,1195493,-,BB_0641,NP_212775.2,267,-,spermidine/putrescine transport system permease
+chr,NC_001318.1,680563,681606,-,1195494,-,BB_0642,NP_212776.1,347,-,spermidine/putrescine ABC transporter ATP-binding protein
+chr,NC_001318.1,681685,682524,-,1195495,ylqF,BB_0643,NP_212777.1,279,-,ribosome biogenesis GTPase A
+chr,NC_001318.1,682679,683377,+,1195496,-,BB_0644,NP_212778.1,232,-,N-acetylmannosamine-6-phosphate 2-epimerase
+chr,NC_001318.1,683423,684967,+,1195497,-,BB_0645,NP_212779.1,514,-,PTS system glucose-specific transporter subunit IIBC
+chr,NC_001318.1,684997,685980,-,1195498,-,BB_0646,NP_212780.1,327,-,hypothetical protein BB_0646
+chr,NC_001318.1,685977,686507,-,1195499,bosR,BB_0647,NP_212781.1,176,-,oxidative stress regulator BosR
+chr,NC_001318.1,686607,688295,-,1195500,-,BB_0648,YP_008686585.1,562,-,hypothetical protein BB_0648
+chr,NC_001318.1,688490,690127,+,1195501,groL,BB_0649,NP_212783.1,545,-,chaperonin GroEL
+chr,NC_001318.1,690193,690489,+,1195502,-,BB_0650,NP_212784.2,98,-,hypothetical protein BB_0650
+chr,NC_001318.1,690482,690799,+,1195503,-,BB_0651,NP_212785.1,105,-,protein translocase subunit YajC
+chr,NC_001318.1,690885,692645,+,1195504,secD,BB_0652,NP_212786.1,586,-,protein translocase subunit SecD
+chr,NC_001318.1,692629,693528,+,1195505,secF,BB_0653,NP_212787.1,299,-,protein translocase subunit SecF
+chr,NC_001318.1,693554,694696,+,1195506,-,BB_0654,NP_212788.1,380,-,hypothetical protein BB_0654
+chr,NC_001318.1,694693,695523,-,1195507,-,BB_0655,NP_212789.1,276,-,heat shock protein
+chr,NC_001318.1,695631,696764,+,1195508,-,BB_0656,NP_212790.1,377,-,oxygen-independent coproporphyrinogen III oxidase
+chr,NC_001318.1,696751,697437,-,1195509,rpiA,BB_0657,NP_212791.1,228,-,ribose 5-phosphate isomerase A
+chr,NC_001318.1,697586,698332,+,1195510,-,BB_0658,NP_212792.2,248,-,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+chr,NC_001318.1,698400,699965,-,1195511,lysS,BB_0659,NP_212793.1,521,-,lysine--tRNA ligase
+chr,NC_001318.1,700052,700924,-,1195512,era,BB_0660,NP_212794.1,290,-,GTPase Era
+chr,NC_001318.1,701029,701385,+,1195513,-,BB_0661,NP_212795.2,118,-,hypothetical protein BB_0661
+chr,NC_001318.1,701395,701805,+,1195514,-,BB_0662,NP_212796.1,136,-,hypothetical protein BB_0662
+chr,NC_001318.1,701825,702274,+,1195515,-,BB_0663,NP_212797.1,149,-,hypothetical protein BB_0663
+chr,NC_001318.1,702283,702951,-,1195516,-,BB_0664,NP_212798.2,222,-,lipoprotein
+chr,NC_001318.1,703009,703968,+,1195517,-,BB_0665,NP_212799.1,319,-,hypothetical protein BB_0665
+chr,NC_001318.1,703961,704959,+,1195518,-,BB_0666,NP_212800.2,332,-,N-acetylmuramoyl-L-alanine amidase domain-containing protein
+chr,NC_001318.1,704949,705500,+,1195519,-,BB_0667,NP_212801.1,183,-,hypothetical protein BB_0667
+chr,NC_001318.1,705580,706605,+,1195520,-,BB_0668,NP_212802.2,341,-,flagellar filament outer layer protein
+chr,NC_001318.1,706673,709267,+,1195521,-,BB_0669,NP_212803.1,864,-,chemotaxis protein CheA
+chr,NC_001318.1,709274,710674,+,1195522,-,BB_0670,NP_212804.1,466,-,purine-binding chemotaxis protein
+chr,NC_001318.1,710686,711171,+,1195523,-,BB_0671,NP_212805.1,161,-,chemotaxis protein CheX
+chr,NC_001318.1,711211,711651,+,1195524,-,BB_0672,NP_212806.1,146,-,chemotaxis protein CheY
+chr,NC_001318.1,711692,712207,-,1195525,-,BB_0673,NP_212807.1,171,-,hypothetical protein BB_0673
+chr,NC_001318.1,712204,713250,-,1195526,-,BB_0674,NP_212808.1,348,-,membrane protein
+chr,NC_001318.1,713244,714107,-,1195527,-,BB_0675,NP_212809.1,287,-,hypothetical protein BB_0675
+chr,NC_001318.1,714104,714766,-,1195528,-,BB_0676,NP_212810.1,220,-,phosphoglycolate phosphatase
+chr,NC_001318.1,715009,716619,+,1195529,rbsA,BB_0677,NP_212811.1,536,-,sugar ABC transporter ATP-binding protein
+chr,NC_001318.1,716620,717771,+,1195530,-,BB_0678,NP_212812.1,383,-,sugar ABC transporter permease
+chr,NC_001318.1,717743,718669,+,1195531,-,BB_0679,NP_212813.2,308,-,ribose/galactose ABC transporter permease
+chr,NC_001318.1,718827,721088,+,1195532,-,BB_0680,NP_212814.1,753,-,methyl-accepting chemotaxis protein
+chr,NC_001318.1,721119,723020,+,1195533,-,BB_0681,NP_212815.2,633,-,methyl-accepting chemotaxis protein
+chr,NC_001318.1,723063,724130,-,1195534,trmU,BB_0682,NP_212816.1,355,-,tRNA-specific 2-thiouridylase MnmA
+chr,NC_001318.1,724224,725447,+,1195535,-,BB_0683,NP_212817.1,407,-,3-hydroxy-3-methylglutaryl-CoA synthase
+chr,NC_001318.1,725431,726495,+,1195536,fni,BB_0684,NP_212818.2,354,-,isopentenyl-diphosphate delta-isomerase
+chr,NC_001318.1,726458,727753,+,1195537,-,BB_0685,NP_212819.1,431,-,3-hydroxy-3-methylglutaryl-CoA reductase
+chr,NC_001318.1,727737,728675,+,1195538,mvaD,BB_0686,NP_212820.1,312,-,diphosphomevalonate decarboxylase
+chr,NC_001318.1,728666,729619,+,1195539,-,BB_0687,NP_212821.1,317,-,phosphomevalonate kinase
+chr,NC_001318.1,729613,730506,+,1195540,mvk,BB_0688,NP_212822.1,297,-,mevalonate kinase
+chr,NC_001318.1,730632,731099,-,1195542,-,BB_0689,NP_212823.1,155,-,hypothetical protein BB_0689
+chr,NC_001318.1,731184,731720,+,1195543,napA,BB_0690,NP_212824.2,178,-,neutrophil activating protein A (napA)
+chr,NC_001318.1,731794,733803,+,1195544,fusA,BB_0691,NP_212825.1,669,-,elongation factor G
+chr,NC_001318.1,734081,735289,+,1195546,-,BB_0693,NP_212827.1,402,-,xylose operon regulatory protein
+chr,NC_001318.1,735352,736686,+,1195547,ffh,BB_0694,NP_212828.2,444,-,signal recognition particle protein
+chr,NC_001318.1,736699,736959,+,1195548,rpsP,BB_0695,NP_212829.1,86,-,30S ribosomal protein S16
+chr,NC_001318.1,736960,737208,+,1195549,-,BB_0696,NP_212830.1,82,-,hypothetical protein BB_0696
+chr,NC_001318.1,737212,737712,+,1195550,rimM,BB_0697,NP_212831.1,166,-,ribosome maturation factor RimM
+chr,NC_001318.1,737709,738428,+,1195551,trmD,BB_0698,NP_212832.1,239,-,tRNA (guanine-N(1)-)-methyltransferase
+chr,NC_001318.1,738406,738771,+,1195552,rplS,BB_0699,NP_212833.1,121,-,50S ribosomal protein L19
+chr,NC_001318.1,739144,739683,+,1195554,-,BB_0701,NP_212835.1,179,-,hypothetical protein BB_0701
+chr,NC_001318.1,739685,740176,+,1195555,coaD,BB_0702,NP_212836.1,163,-,phosphopantetheine adenylyltransferase
+chr,NC_001318.1,740240,740422,+,1195556,rpmF,BB_0703,NP_212837.1,60,-,50S ribosomal protein L32
+chr,NC_001318.1,740446,740688,+,1195557,acpP,BB_0704,NP_212838.1,80,-,acyl carrier protein
+chr,NC_001318.1,740688,741425,+,1195558,rnc,BB_0705,NP_212839.2,245,-,ribonuclease III
+chr,NC_001318.1,741396,742628,-,1195559,-,BB_0706,NP_212840.1,410,-,polynucleotide adenylyltransferase
+chr,NC_001318.1,742744,744516,+,1195560,-,BB_0707,NP_212841.2,590,-,hypothetical protein BB_0707
+chr,NC_001318.1,744522,744845,+,1195561,-,BB_0708,NP_212842.1,107,-,hypothetical protein BB_0708
+chr,NC_001318.1,745302,746333,+,1195563,-,BB_0709,NP_212843.1,343,-,hypothetical protein BB_0709
+chr,NC_001318.1,748123,750018,+,1195566,-,BB_0712,NP_212846.1,631,-,RNA polymerase sigma factor RpoD
+chr,NC_001318.1,750031,750789,+,1195567,-,BB_0713,NP_212847.2,252,-,hypothetical protein BB_0713
+chr,NC_001318.1,751191,752159,+,1195568,-,BB_0714,NP_212848.1,322,-,hypothetical protein BB_0714
+chr,NC_001318.1,752170,753219,+,1195569,-,BB_0715,NP_212849.2,349,-,cell division protein FtsA
+chr,NC_001318.1,753292,754068,+,1195570,mreC,BB_0716,NP_212850.2,258,-,rod shape-determining protein MreC
+chr,NC_001318.1,754068,754550,+,1195571,-,BB_0717,NP_212851.1,160,-,integral membrane protein
+chr,NC_001318.1,754637,756349,+,1195572,-,BB_0718,NP_212852.2,570,-,penicillin-binding protein
+chr,NC_001318.1,756354,757670,+,1195573,mrdB,BB_0719,NP_212853.2,438,-,rod shape-determining protein RodA
+chr,NC_001318.1,757836,759581,+,1195574,thrS,BB_0720,YP_008686586.1,581,-,threonine--tRNA ligase
+chr,NC_001318.1,759586,760215,+,1195575,pgsA,BB_0721,NP_212855.1,209,-,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+chr,NC_001318.1,760226,761647,+,1195576,-,BB_0722,NP_212856.2,473,-,hypothetical protein BB_0722
+chr,NC_001318.1,761621,762154,-,1195577,-,BB_0723,YP_008686587.1,177,-,adenylyl cyclase
+chr,NC_001318.1,762251,763573,+,1195578,-,BB_0724,YP_008686588.1,440,-,potassium transporter
+chr,NC_001318.1,763579,764361,+,1195579,-,BB_0725,NP_212859.2,260,-,lectin
+chr,NC_001318.1,764371,765342,+,1195580,-,BB_0726,NP_212860.1,323,-,ATP-binding protein
+chr,NC_001318.1,765373,766716,+,1195581,-,BB_0727,NP_212861.2,447,-,phosphofructokinase
+chr,NC_001318.1,766733,768064,-,1195582,cdr,BB_0728,NP_212862.2,443,-,CoA-disulfide reductase
+chr,NC_001318.1,768079,769470,-,1195583,-,BB_0729,NP_212863.1,463,-,dicarboxylate/amino acid:cation symporter
+chr,NC_001318.1,769547,771139,-,1195584,pgi,BB_0730,NP_212864.2,530,-,glucose-6-phosphate isomerase
+chr,NC_001318.1,771162,771563,-,1195585,-,BB_0731,NP_212865.1,133,-,hypothetical protein BB_0731
+chr,NC_001318.1,771570,774368,-,1195586,-,BB_0732,NP_212866.1,932,-,penicillin-binding protein
+chr,NC_001318.1,774677,775462,+,1195587,-,BB_0733,NP_212867.2,261,-,hypothetical protein BB_0733
+chr,NC_001318.1,775666,776679,-,1195588,-,BB_0734,NP_212868.1,337,-,Sua5/YciO/YrdC/YwlC family protein
+chr,NC_001318.1,776785,777573,+,1195589,-,BB_0735,NP_212869.2,262,-,rare lipoprotein A
+chr,NC_001318.1,777765,778754,+,1195591,-,BB_0737,NP_212871.2,329,-,tRNA-dihydrouridine synthase
+chr,NC_001318.1,778758,781385,+,1195592,valS,BB_0738,NP_212872.1,875,-,valine--tRNA ligase
+chr,NC_001318.1,781486,782073,-,1195593,-,BB_0739,YP_008686589.1,195,-,hypothetical protein BB_0739
+chr,NC_001318.1,782152,782829,-,1195594,-,BB_0740,NP_212874.1,225,-,hypothetical protein BB_0740
+chr,NC_001318.1,782976,783248,-,1195595,groS,BB_0741,NP_212875.2,90,-,chaperonin GroS
+chr,NC_001318.1,783390,785021,+,1195596,-,BB_0742,NP_212876.2,543,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,785057,786754,+,1195597,-,BB_0743,NP_212877.1,565,-,hypothetical protein BB_0743
+chr,NC_001318.1,786860,788962,+,1195598,p83/100,BB_0744,NP_212878.1,700,-,p83/100 antigen
+chr,NC_001318.1,789303,789938,+,1195601,-,BB_0745,NP_212879.2,211,-,endonuclease III
+chr,NC_001318.1,789947,790807,-,1195602,-,BB_0746,NP_212880.1,286,-,oligopeptide ABC transporter permease
+chr,NC_001318.1,790807,791787,-,1195603,-,BB_0747,NP_212881.1,326,-,oligopeptide ABC transporter permease
+chr,NC_001318.1,791794,792252,-,1195604,-,BB_0748,NP_212882.1,152,-,hypothetical protein BB_0748
+chr,NC_001318.1,792351,793625,+,1195605,-,BB_0749,NP_212883.2,424,-,hypothetical protein BB_0749
+chr,NC_001318.1,793842,794855,-,1195607,-,BB_0751,NP_212885.2,337,-,hypothetical protein BB_0751
+chr,NC_001318.1,794875,796383,-,1195608,-,BB_0752,YP_008686590.1,502,-,hypothetical protein BB_0752
+chr,NC_001318.1,796388,797122,-,1195609,-,BB_0753,YP_008686591.1,244,-,hypothetical protein BB_0753
+chr,NC_001318.1,797119,798048,-,1195610,-,BB_0754,NP_212888.1,309,-,ABC transporter ATP-binding protein
+chr,NC_001318.1,798057,799016,-,1195611,rnz,BB_0755,NP_212889.1,319,-,ribonuclease Z
+chr,NC_001318.1,799208,800275,-,1195612,-,BB_0756,NP_212890.1,355,-,hypothetical protein BB_0756
+chr,NC_001318.1,800476,801072,+,1195613,clpP,BB_0757,NP_212891.2,198,-,ATP-dependent Clp protease proteolytic subunit
+chr,NC_001318.1,801119,801778,+,1195614,-,BB_0758,NP_212892.2,219,-,hypothetical protein BB_0758
+chr,NC_001318.1,801941,802798,-,1195616,-,BB_0759,NP_212893.1,285,-,membrane protein
+chr,NC_001318.1,802838,803167,-,1195617,-,BB_0760,NP_212894.2,109,-,protein Gp37
+chr,NC_001318.1,803278,804165,+,1195618,-,BB_0761,YP_008686592.1,295,-,peptidoglycan-binding protein
+chr,NC_001318.1,804417,805772,-,1195620,-,BB_0763,YP_008686593.1,451,-,acetoacetate metabolism regulatory protein AtoC
+chr,NC_001318.1,805775,806923,-,1195621,-,BB_0764,NP_212898.1,382,-,sensory transduction histidine kinase
+chr,NC_001318.1,806920,807966,-,1195622,-,BB_0765,NP_212899.1,348,-,hypothetical protein BB_0765
+chr,NC_001318.1,807976,808464,-,1195623,cvpA,BB_0766,NP_212900.1,162,-,colicin V production protein
+chr,NC_001318.1,808461,809552,-,1195624,murG,BB_0767,NP_212901.1,363,-,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+chr,NC_001318.1,809701,810495,-,1195625,-,BB_0768,NP_212902.1,264,-,pyridoxal kinase
+chr,NC_001318.1,810470,811510,-,1195626,-,BB_0769,NP_212903.1,346,-,tRNA N6-adenosine threonylcarbamoyltransferase
+chr,NC_001318.1,811507,812388,-,1195627,-,BB_0770,NP_212904.1,293,-,divergent polysaccharide deacetylase superfamily protein
+chr,NC_001318.1,812439,813239,-,1195628,rpoS,BB_0771,NP_212905.1,266,-,RNA polymerase sigma factor
+chr,NC_001318.1,813386,813706,-,11493334,-,BB_0771a,YP_004956714.1,106,-,hypothetical protein BB_0771a
+chr,NC_001318.1,813690,814697,-,1195629,-,BB_0772,NP_212906.1,335,-,flagellar basal body P-ring protein
+chr,NC_001318.1,814868,815302,-,1195630,-,BB_0773,NP_212907.1,144,-,hypothetical protein BB_0773
+chr,NC_001318.1,815502,816299,-,1195631,flgG,BB_0774,NP_212908.1,265,-,flagellar basal body rod protein FlgG
+chr,NC_001318.1,816312,817160,-,1195632,-,BB_0775,NP_212909.2,282,-,flagellar hook-basal body complex protein
+chr,NC_001318.1,817396,817956,+,1195633,-,BB_0776,NP_212910.2,186,-,hypothetical protein BB_0776
+chr,NC_001318.1,818018,818548,+,1195634,apt,BB_0777,NP_212911.1,176,-,adenine phosphoribosyltransferase
+chr,NC_001318.1,818605,818916,+,1195635,rplU,BB_0778,NP_212912.1,103,-,50S ribosomal protein L21
+chr,NC_001318.1,818922,819242,+,1195636,-,BB_0779,NP_212913.3,106,-,hypothetical protein BB_0779
+chr,NC_001318.1,819242,819487,+,1195637,rpmA,BB_0780,NP_212914.1,81,-,50S ribosomal protein L27
+chr,NC_001318.1,819542,820528,+,1195638,-,BB_0781,NP_212915.1,328,-,GTPase Obg
+chr,NC_001318.1,820607,821188,+,1195639,nadD,BB_0782,NP_212916.2,193,-,nicotinate-nucleotide adenylyltransferase
+chr,NC_001318.1,821185,822369,+,1195640,-,BB_0783,NP_212917.1,394,-,hypothetical protein BB_0783
+chr,NC_001318.1,822344,822694,+,1195641,-,BB_0784,NP_212918.2,116,-,ribosomal silencing factor RsfS
+chr,NC_001318.1,822810,823103,+,1195642,-,BB_0785,NP_212919.1,97,-,septation protein SpoVG
+chr,NC_001318.1,823263,823811,+,1195643,-,BB_0786,NP_212920.2,182,-,50S ribosomal protein L25/general stress protein Ctc
+chr,NC_001318.1,823816,824382,+,1195645,pth,BB_0787,NP_212921.1,188,-,peptidyl-tRNA hydrolase
+chr,NC_001318.1,824382,825704,+,1195646,tilS,BB_0788,NP_212922.1,440,-,tRNA(Ile)-lysidine synthase
+chr,NC_001318.1,825701,827620,+,1195647,-,BB_0789,NP_212923.1,639,-,ATP-dependent zinc metalloprotease FtsH
+chr,NC_001318.1,827631,829112,+,1195648,-,BB_0790,NP_212924.2,493,-,hypothetical protein BB_0790
+chr,NC_001318.1,829218,830321,+,1195649,-,BB_0791,NP_212925.1,367,-,thymidine kinase
+chr,NC_001318.1,830318,830941,-,1195650,-,BB_0792,NP_212926.1,207,-,hypothetical protein BB_0792
+chr,NC_001318.1,830955,831563,-,1195651,tmk,BB_0793,NP_212927.2,202,-,thymidylate kinase
+chr,NC_001318.1,831646,836043,+,1195652,-,BB_0794,YP_008686594.1,1465,-,hypothetical protein BB_0794
+chr,NC_001318.1,836061,838526,+,1195653,-,BB_0795,NP_212929.1,821,-,outer membrane protein
+chr,NC_001318.1,838547,839080,+,1195654,-,BB_0796,NP_212930.2,177,-,hypothetical protein BB_0796
+chr,NC_001318.1,839244,841832,+,1195655,mutS,BB_0797,NP_212931.1,862,-,DNA mismatch repair protein MutS
+chr,NC_001318.1,841834,842451,+,1195656,-,BB_0798,NP_212932.1,205,-,competence protein F
+chr,NC_001318.1,842501,842989,+,1195657,-,BB_0799,NP_212933.1,162,-,hypothetical protein BB_0799
+chr,NC_001318.1,843003,844451,+,1195658,-,BB_0800,NP_212934.1,482,-,transcription termination/antitermination protein NusA
+chr,NC_001318.1,844454,847102,+,1195659,-,BB_0801,NP_212935.1,882,-,translation initiation factor IF-2
+chr,NC_001318.1,847126,847488,+,1195660,rbfA,BB_0802,NP_212936.2,120,-,ribosome-binding factor A
+chr,NC_001318.1,847491,848339,+,1195661,truB,BB_0803,NP_212937.1,282,-,tRNA pseudouridine synthase B
+chr,NC_001318.1,848538,848804,+,1195662,rpsO,BB_0804,NP_212938.1,88,-,30S ribosomal protein S15
+chr,NC_001318.1,848837,850987,+,1195663,-,BB_0805,NP_212939.2,716,-,polyribonucleotide nucleotidyltransferase
+chr,NC_001318.1,850994,852514,+,1195664,-,BB_0806,NP_212940.1,506,-,lipoprotein
+chr,NC_001318.1,852489,853778,+,1195665,-,BB_0807,NP_212941.1,429,-,integral membrane protein
+chr,NC_001318.1,853775,854842,+,1195666,-,BB_0808,NP_212942.1,355,-,hypothetical protein BB_0808
+chr,NC_001318.1,854869,855996,+,1195667,tgt,BB_0809,NP_212943.1,375,-,queuine tRNA-ribosyltransferase
+chr,NC_001318.1,855989,857509,+,1195668,mviN,BB_0810,NP_212944.2,506,-,integral membrane protein MviN
+chr,NC_001318.1,857506,858915,+,1195669,-,BB_0811,NP_212945.1,469,-,hypothetical protein BB_0811
+chr,NC_001318.1,858939,860111,-,1195670,coaBC,BB_0812,NP_212946.1,390,-,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase
+chr,NC_001318.1,860440,861774,+,1195672,panF,BB_0814,NP_212948.1,444,-,sodium/panthothenate symporter
+chr,NC_001318.1,862699,863646,+,1195674,-,BB_0816,NP_212950.2,315,-,hypothetical protein BB_0816
+chr,NC_001318.1,863636,865042,+,1195675,murC,BB_0817,NP_212951.1,468,-,UDP-N-acetylmuramate--L-alanine ligase
+chr,NC_001318.1,865053,865919,+,1195676,-,BB_0818,NP_212952.1,288,-,hypothetical protein BB_0818
+chr,NC_001318.1,865916,866458,+,1195677,-,BB_0819,NP_212953.1,180,-,cytidylate kinase
+chr,NC_001318.1,866494,866694,+,1195678,rpoZ,BB_0820,NP_212954.1,66,-,DNA-directed RNA polymerase subunit omega
+chr,NC_001318.1,866681,867601,+,1195679,miaA,BB_0821,NP_212955.1,306,-,tRNA dimethylallyltransferase
+chr,NC_001318.1,867743,868114,-,1195681,-,BB_0823,NP_212957.1,123,-,lipoprotein
+chr,NC_001318.1,868195,868740,+,1195682,-,BB_0824,NP_212958.2,181,-,hypothetical protein BB_0824
+chr,NC_001318.1,868733,869380,-,1195683,-,BB_0825,NP_212959.2,215,-,hypothetical protein BB_0825
+chr,NC_001318.1,869508,870023,-,1195684,-,BB_0826,NP_212960.1,171,-,hypothetical protein BB_0826
+chr,NC_001318.1,870112,872583,-,1195685,-,BB_0827,NP_212961.1,823,-,ATP-dependent helicase
+chr,NC_001318.1,872586,875132,-,1195686,topA,BB_0828,NP_212962.1,848,-,DNA topoisomerase I
+chr,NC_001318.1,875207,876448,+,1195687,-,BB_0829,NP_212963.1,413,-,exonuclease SbcD
+chr,NC_001318.1,876492,879281,+,1195688,-,BB_0830,NP_212964.2,929,-,exonuclease SbcC
+chr,NC_001318.1,879315,880250,+,1195689,-,BB_0831,NP_212965.2,311,-,xylose operon regulatory protein
+chr,NC_001318.1,880267,881091,-,1195690,-,BB_0832,NP_212966.1,274,-,lipoprotein
+chr,NC_001318.1,881085,884213,-,1195691,ileS,BB_0833,NP_212967.1,1042,-,isoleucine--tRNA ligase
+chr,NC_001318.1,884228,886447,-,1195692,-,BB_0834,NP_212968.1,739,-,ATP-dependent Clp protease subunit C
+chr,NC_001318.1,886470,888179,-,1195693,-,BB_0835,NP_212969.2,569,-,phosphomannomutase
+chr,NC_001318.1,888312,890318,+,1195694,uvrB,BB_0836,YP_008686595.1,668,-,excinuclease ABC subunit B
+chr,NC_001318.1,890322,893174,+,1195695,uvrA,BB_0837,NP_212971.1,950,-,excinuclease ABC subunit A
+chr,NC_001318.1,893129,896569,+,1195696,-,BB_0838,NP_212972.1,1146,-,hypothetical protein BB_0838
+chr,NC_001318.1,896579,897127,-,11493335,-,BB_0838a,YP_004956715.1,182,-,hypothetical protein BB_0838a
+chr,NC_001318.1,897096,897695,-,1195697,-,BB_0839,NP_212973.2,199,-,hypothetical protein BB_0839
+chr,NC_001318.1,897704,899320,-,1195698,-,BB_0840,NP_212974.1,538,-,lipoprotein
+chr,NC_001318.1,899499,900731,+,1195699,arcA,BB_0841,NP_212975.1,410,-,arginine deiminase
+chr,NC_001318.1,900799,901782,+,1195700,argF,BB_0842,NP_212976.2,327,-,ornithine carbamoyltransferase
+chr,NC_001318.1,901834,903258,+,1195701,-,BB_0843,NP_212977.2,474,-,arginine-ornithine antiporter
+chr,NC_001318.1,903929,904900,-,1195702,-,BB_0844,NP_212978.1,323,-,lipoprotein
+chr,NC_001318.1,908407,909591,+,1195709,-,BB_0852,NP_212985.1,394,-,hypothetical protein BB_0852
+cp9,NC_001904.1,163,1272,+,1194436,-,BBC01,NP_047016.1,369,-,hypothetical protein BBC01 (plasmid)
+cp9,NC_001904.1,1282,1839,+,1194428,-,BBC02,NP_047017.1,185,-,hypothetical protein BBC02 (plasmid)
+cp9,NC_001904.1,1892,2452,+,1194429,-,BBC03,NP_047018.1,186,-,hypothetical protein BBC03 (plasmid)
+cp9,NC_001904.1,2590,2700,-,1194437,-,BBC04,NP_047019.1,36,-,hypothetical protein BBC04 (plasmid)
+cp9,NC_001904.1,2804,3712,+,1194430,-,BBC05,NP_047020.1,302,-,hypothetical protein BBC05 (plasmid)
+cp9,NC_001904.1,3853,4377,-,1194431,-,BBC06,NP_047021.1,174,-,exported protein A (plasmid)
+cp9,NC_001904.1,4504,4788,-,1194438,-,BBC07,NP_047022.1,94,-,hypothetical protein BBC07 (plasmid)
+cp9,NC_001904.1,5534,5980,+,1194432,-,BBC08,NP_047023.1,148,-,hypothetical protein BBC08 (plasmid)
+cp9,NC_001904.1,6281,6808,-,1194433,-,BBC10,NP_047024.1,175,-,rev protein (plasmid)
+cp9,NC_001904.1,6974,7771,+,1194434,-,BBC11,NP_047025.1,265,-,hypothetical protein BBC11 (plasmid)
+cp9,NC_001904.1,7911,9203,-,1194435,-,BBC12,NP_047026.1,430,-,hypothetical protein BBC12 (plasmid)
+lp5,NC_000957.1,264,638,+,1194835,-,BB_T01,NP_051538.2,124,-,hypothetical protein BB_T01 (plasmid)
+lp5,NC_000957.1,744,1097,+,1194831,-,BB_T02,NP_051539.1,117,-,hypothetical protein BB_T02 (plasmid)
+lp5,NC_000957.1,1208,1576,+,1194836,-,BB_T03,NP_051540.1,122,-,hypothetical protein BB_T03 (plasmid)
+lp5,NC_000957.1,2148,3254,+,1194832,-,BB_T04,NP_051541.1,368,-,hypothetical protein BB_T04 (plasmid)
+lp5,NC_000957.1,3340,4332,+,1194833,-,BB_T06,NP_051542.1,330,-,Sua5/YciO/YrdC/YwlC family protein (plasmid)
+lp5,NC_000957.1,4388,4819,+,1194834,-,BB_T07,NP_051543.1,143,-,outer membrane protein (plasmid)
+cp26,NC_001903.1,46,324,+,1194411,-,BB_B01,NP_046987.2,92,-,acylphosphatase (plasmid)
+cp26,NC_001903.1,308,751,-,1194420,-,BB_B02,NP_046988.1,147,-,hypothetical protein BB_B02 (plasmid)
+cp26,NC_001903.1,837,2186,-,1194419,-,BB_B03,NP_046989.1,449,-,telomere resolvase ResT (plasmid)
+cp26,NC_001903.1,2476,3798,-,1194410,-,BB_B04,NP_046990.2,440,-,chitibiose transporter protein ChbC (plasmid)
+cp26,NC_001903.1,4084,4431,+,1194409,-,BB_B05,NP_046991.1,115,-,chitibiose transporter protein ChbA (plasmid)
+cp26,NC_001903.1,4482,4757,+,1194408,-,BB_B06,NP_046992.2,91,-,chitibiose transporter protein ChbB (plasmid)
+cp26,NC_001903.1,4769,5866,+,1194407,-,BB_B07,NP_046993.1,365,-,alpha3-beta1 integrin-binding protein (plasmid)
+cp26,NC_001903.1,6677,7714,+,1194417,-,BB_B09,NP_046995.1,345,-,lipoprotein (plasmid)
+cp26,NC_001903.1,7836,8765,+,1194406,-,BB_B10,NP_046996.1,309,-,hypothetical protein BB_B10 (plasmid)
+cp26,NC_001903.1,9275,10036,+,1194404,-,BB_B12,NP_046998.1,253,-,PF-32 protein (plasmid)
+cp26,NC_001903.1,10104,10652,+,1194403,-,BB_B13,NP_046999.1,182,-,plasmid partition protein (plasmid)
+cp26,NC_001903.1,10920,11417,-,1194402,-,BB_B14,NP_047000.1,165,-,hypothetical protein BB_B14 (plasmid)
+cp26,NC_001903.1,12014,13606,+,1194401,-,BB_B16,NP_047002.1,530,-,oligopeptide ABC transporter OppAIV (plasmid)
+cp26,NC_001903.1,13893,15107,-,1194400,-,BB_B17,NP_047003.1,404,-,inosine 5-monophosphate dehydrogenase (plasmid)
+cp26,NC_001903.1,15132,16667,-,1194399,guaA,BB_B18,NP_047004.2,511,-,GMP synthase (plasmid)
+cp26,NC_001903.1,16903,17535,+,1194415,-,BB_B19,NP_047005.1,210,-,outer surface protein C (plasmid)
+cp26,NC_001903.1,17966,19321,-,1194414,-,BB_B22,NP_047008.1,451,-,guanine/xanthine permease (plasmid)
+cp26,NC_001903.1,19431,20786,-,1194413,-,BB_B23,NP_047009.2,451,-,guanine/xanthine permease (plasmid)
+cp26,NC_001903.1,20858,21364,-,1194425,-,BB_B24,NP_047010.1,168,-,hypothetical protein BB_B24 (plasmid)
+cp26,NC_001903.1,21339,21833,-,1194424,-,BB_B25,NP_047011.2,164,-,hypothetical protein BB_B25 (plasmid)
+cp26,NC_001903.1,21898,22593,+,1194423,-,BB_B26,NP_047012.1,231,-,hypothetical protein BB_B26 (plasmid)
+cp26,NC_001903.1,22603,23154,-,1194422,-,BB_B27,NP_047013.1,183,-,lipoprotein (plasmid)
+cp26,NC_001903.1,23255,24499,+,1194421,-,BB_B28,NP_047014.1,414,-,hypothetical protein BB_B28 (plasmid)
+cp26,NC_001903.1,24825,26453,+,1194412,-,BB_B29,NP_047015.1,542,-,PTS system transporter subunit IIBC (plasmid)
+lp17,NC_001849.2,212,406,+,11473633,-,BB_D001,YP_004940415.1,64,-,lipoprotein (plasmid)
+lp17,NC_001849.2,330,803,+,1194013,-,BB_D01,NP_045385.1,157,-,hypothetical protein BB_D01 (plasmid)
+lp17,NC_001849.2,1410,1766,+,1194012,-,BB_D04,NP_045388.1,118,-,hypothetical protein BB_D04 (plasmid)
+lp17,NC_001849.2,3652,3819,+,11473636,-,BB_D0027,YP_004940416.1,55,-,hypothetical protein BB_D0027 (plasmid)
+lp17,NC_001849.2,5056,5739,+,1194023,-,BB_D09,NP_045393.1,227,-,hypothetical protein BB_D09 (plasmid)
+lp17,NC_001849.2,5874,6452,-,1194022,-,BB_D10,NP_045394.1,192,-,lipoprotein (plasmid)
+lp17,NC_001849.2,7785,8111,+,1194020,-,BB_D13,NP_045397.1,108,-,hypothetical protein BB_D13 (plasmid)
+lp17,NC_001849.2,8267,9379,+,1194019,-,BB_D14,NP_045398.1,370,-,hypothetical protein BB_D14 (plasmid)
+lp17,NC_001849.2,9591,9980,-,1194018,-,BB_D15,NP_045399.2,129,-,membrane protein (plasmid)
+lp17,NC_001849.2,10984,11646,-,1194015,-,BB_D18,NP_045402.1,220,-,hypothetical protein BB_D18 (plasmid)
+lp17,NC_001849.2,13339,14079,+,1194014,-,BB_D21,NP_045404.1,246,-,hypothetical protein BB_D21 (plasmid)
+lp17,NC_001849.2,14070,14339,+,1194017,-,BB_D22,NP_045405.1,89,-,hypothetical protein BB_D22 (plasmid)
+lp17,NC_001849.2,15718,15879,-,11473632,-,BB_D0031,YP_004940417.1,53,-,hypothetical protein BB_D0031 (plasmid)
+lp17,NC_001849.2,15889,16119,-,1194026,-,BB_D24,NP_045406.1,76,-,hypothetical protein BB_D24 (plasmid)
+lp21,NC_000955.2,253,618,+,1194744,-,BB_U01,NP_051455.2,121,-,hypothetical protein BB_U01 (plasmid)
+lp21,NC_000955.2,746,1114,+,1194745,-,BB_U02,NP_051456.1,122,-,hypothetical protein BB_U02 (plasmid)
+lp21,NC_000955.2,1486,2628,+,1194737,-,BB_U04,NP_051458.1,380,-,protein BBC01 (plasmid)
+lp21,NC_000955.2,2868,3656,+,1194738,-,BB_U05,NP_051459.1,262,-,PF-32 protein (plasmid)
+lp21,NC_000955.2,14648,15235,+,1194739,-,BB_U06,NP_051460.2,195,-,plasmid partition protein (plasmid)
+lp21,NC_000955.2,15349,15813,+,1194740,-,BB_U07,NP_051461.1,154,-,protein BBC01 (plasmid)
+lp21,NC_000955.2,15791,16084,+,1194747,-,BB_U08,NP_051462.1,97,-,SUA5 subfamily protein (plasmid)
+lp21,NC_000955.2,16228,16548,-,1194741,-,BB_U09,NP_051463.1,106,-,TM2 family protein (plasmid)
+lp21,NC_000955.2,16603,16800,+,1194748,-,BB_U10,NP_051464.1,65,-,protein BBC01 (plasmid)
+lp21,NC_000955.2,16886,17878,+,1194742,-,BB_U11,NP_051465.1,330,-,Sua5/YciO/YrdC/YwlC family protein (plasmid)
+lp25,NC_001850.1,6898,7761,+,1194043,-,BB_E09,NP_045416.1,287,-,protein p23 (plasmid)
+lp25,NC_001850.1,9567,10187,-,1194066,-,BB_E16,NP_045423.1,206,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,10200,10694,-,1194067,-,BB_E17,NP_045424.2,164,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,11498,12079,-,1194044,-,BB_E18,NP_045425.1,193,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,12096,12854,-,1194045,-,BB_E19,NP_045426.1,252,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,12830,13393,-,1194036,-,BB_E20,NP_045427.1,187,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,13403,14530,-,1194037,-,BB_E21,NP_045428.1,375,-,hypothetical protein (plasmid)
+lp25,NC_001850.1,15042,15545,-,1194038,-,BB_E22,NP_045429.2,167,-,pyrazinamidase/nicotinamidase PncA (plasmid)
+lp25,NC_001850.1,21946,22677,-,1194040,-,BB_E31,NP_045436.1,243,-,"antigen, P35, putative (plasmid)"
+lp36,NC_001855.1,188,1081,+,1194235,-,BB_K01,NP_045575.1,297,-,lipoprotein (plasmid)
+lp36,NC_001855.1,5288,6040,-,1194241,-,BB_K07,NP_045581.1,250,-,lipoprotein (plasmid)
+lp36,NC_001855.1,6366,6650,+,1194243,-,BB_K09,NP_045583.1,94,-,hypothetical protein BB_K09 (plasmid)
+lp36,NC_001855.1,8164,8859,-,1194217,-,BB_K13,NP_045587.2,231,-,hypothetical protein BB_K13 (plasmid)
+lp36,NC_001855.1,9373,9999,+,1194218,-,BB_K15,NP_045589.1,208,-,antigen P35 (plasmid)
+lp36,NC_001855.1,10301,11947,+,1194225,-,BB_K17,NP_045591.1,548,-,adenine deaminase (plasmid)
+lp36,NC_001855.1,12602,13237,+,1194260,-,BB_K19,NP_045593.1,211,-,lipoprotein (plasmid)
+lp36,NC_001855.1,13577,14326,-,1194227,-,BB_K21,NP_045595.1,249,-,PF-32 protein (plasmid)
+lp36,NC_001855.1,14302,14841,-,1194228,-,BB_K22,NP_045596.1,179,-,hypothetical protein BB_K22 (plasmid)
+lp36,NC_001855.1,14834,15760,-,1194262,-,BB_K23,NP_045597.1,308,-,hypothetical protein BB_K23 (plasmid)
+lp36,NC_001855.1,16275,16886,+,1194229,-,BB_K24,NP_045598.1,203,-,PF-49 protein (plasmid)
+lp36,NC_001855.1,17380,17583,+,11473572,-,BB_K54,YP_004940636.1,67,-,hypothetical protein BB_K54 (plasmid)
+lp36,NC_001855.1,20389,21453,+,1194219,-,BB_K32,NP_045605.1,354,-,fibronectin-binding protein (plasmid)
+lp36,NC_001855.1,21720,21893,+,1194248,-,BB_K33,NP_045606.1,57,-,hypothetical protein BB_K33 (plasmid)
+lp36,NC_001855.1,21912,22133,+,1194254,-,BB_K34,NP_045607.1,73,-,hypothetical protein BB_K34 (plasmid)
+lp36,NC_001855.1,22294,22467,+,1194255,-,BB_K35,NP_045608.1,57,-,hypothetical protein BB_K35 (plasmid)
+lp36,NC_001855.1,24067,24243,+,11473571,-,BB_K0058,YP_004940637.1,58,-,hypothetical protein BB_K0058 (plasmid)
+lp36,NC_001855.1,25103,25657,+,1194231,-,BB_K40,NP_045612.1,184,-,hypothetical protein BB_K40 (plasmid)
+lp36,NC_001855.1,25813,26358,-,1194266,-,BB_K41,NP_045613.2,181,-,hypothetical protein BB_K41 (plasmid)
+lp36,NC_001855.1,26585,26803,-,1194267,-,BB_K42,NP_045614.1,72,-,hypothetical protein BB_K42 (plasmid)
+lp36,NC_001855.1,27383,28288,-,1194232,-,BB_K45,NP_045617.2,301,-,immunogenic protein P37 (plasmid)
+lp36,NC_001855.1,29477,30463,-,1194270,-,BB_K47,NP_045618.1,328,-,hypothetical protein BB_K47 (plasmid)
+lp36,NC_001855.1,30719,31585,-,1194233,-,BB_K48,NP_045619.1,288,-,immunogenic protein P37 (plasmid)
+lp36,NC_001855.1,31827,32822,-,1194257,-,BB_K49,NP_045620.1,331,-,hypothetical protein BB_K49 (plasmid)
+lp36,NC_001855.1,33081,34079,-,1194221,-,BB_K50,NP_045621.1,332,-,immunogenic protein P37 (plasmid)
+lp36,NC_001855.1,34403,34588,-,11473575,-,BB_K0059,YP_004940638.1,61,-,hypothetical protein BB_K0059 (plasmid)
+lp36,NC_001855.1,34595,35443,-,1194222,-,BB_K52,NP_045623.1,282,-,lipoprotein (plasmid)
+lp36,NC_001855.1,35868,36422,+,1194223,-,BB_K53,NP_045624.1,184,-,outer membrane protein (plasmid)
+lp38,NC_001856.1,4576,5496,+,1194287,-,BB_J08,NP_045632.1,306,-,surface protein (plasmid)
+lp38,NC_001856.1,6089,6862,+,1194272,-,BB_J09,NP_045633.1,257,-,outer surface protein D (plasmid)
+lp38,NC_001856.1,7780,7965,-,1194289,-,BB_J11,NP_045635.1,61,-,hypothetical protein BB_J11 (plasmid)
+lp38,NC_001856.1,8877,9155,-,1194291,-,BB_J13,NP_045637.1,92,-,hypothetical protein BB_J13 (plasmid)
+lp38,NC_001856.1,10518,11105,-,1194274,-,BB_J16,NP_045640.1,195,-,plasmid partition protein (plasmid)
+lp38,NC_001856.1,11152,11889,-,1194275,-,BB_J17,NP_045641.1,245,-,PF-32 protein (plasmid)
+lp38,NC_001856.1,11862,12452,-,1194276,-,BB_J18,NP_045642.1,196,-,PF-32 protein (plasmid)
+lp38,NC_001856.1,12445,13440,-,1194277,-,BB_J19,NP_045643.1,331,-,hypothetical protein BB_J19 (plasmid)
+lp38,NC_001856.1,13577,13738,+,11473581,-,BB_J0056,YP_004940639.1,53,-,hypothetical protein BB_J0056 (plasmid)
+lp38,NC_001856.1,15220,15375,+,11473579,-,BB_J0058,YP_004940640.1,51,-,hypothetical protein BB_J0058 (plasmid)
+lp38,NC_001856.1,16520,17329,+,1194310,-,BB_J23,NP_045647.2,269,-,hypothetical protein BB_J23 (plasmid)
+lp38,NC_001856.1,17388,18170,+,1194311,-,BB_J24,NP_045648.1,260,-,hypothetical protein BB_J24 (plasmid)
+lp38,NC_001856.1,18214,19254,+,1194312,-,BB_J25,NP_045649.2,346,-,hypothetical protein BB_J25 (plasmid)
+lp38,NC_001856.1,19313,20008,+,1194278,-,BB_J26,NP_045650.1,231,-,ABC transporter ATP-binding protein (plasmid)
+lp38,NC_001856.1,20001,21230,+,1194313,-,BB_J27,NP_045651.2,409,-,efflux ABC transporter permease (plasmid)
+lp38,NC_001856.1,21223,21948,+,1194293,-,BB_J28,NP_045652.2,241,-,hypothetical protein BB_J28 (plasmid)
+lp38,NC_001856.1,22043,23008,+,1194294,-,BB_J29,NP_045653.2,321,-,hypothetical protein BB_J29 (plasmid)
+lp38,NC_001856.1,23366,24088,+,1194296,-,BB_J31,NP_045655.1,240,-,hypothetical protein BB_J31 (plasmid)
+lp38,NC_001856.1,25337,26407,-,1194299,-,BB_J34,NP_045658.1,356,-,lipoprotein (plasmid)
+lp38,NC_001856.1,26995,28053,-,1194301,-,BB_J36,NP_045660.1,352,-,lipoprotein (plasmid)
+lp38,NC_001856.1,28278,28433,-,1194302,-,BB_J37,NP_045661.2,51,-,hypothetical protein BB_J37 (plasmid)
+lp38,NC_001856.1,29905,30771,-,1194279,-,BB_J41,NP_045665.1,288,-,antigen P35 (plasmid)
+lp38,NC_001856.1,30942,31133,-,1194315,-,BB_J42,NP_045666.1,63,-,hypothetical protein BB_J42 (plasmid)
+lp38,NC_001856.1,31220,32140,+,1194316,-,BB_J43,NP_045667.1,306,-,hypothetical protein BB_J43 (plasmid)
+lp38,NC_001856.1,32498,33220,+,1194318,-,BB_J45,NP_045669.1,240,-,lipoprotein (plasmid)
+lp38,NC_001856.1,34372,34668,-,1194319,-,BB_J46,NP_045670.1,98,-,hypothetical protein BB_J46 (plasmid)
+lp38,NC_001856.1,34905,35591,-,1194320,-,BB_J47,NP_045671.1,228,-,hypothetical protein BB_J47 (plasmid)
+lp38,NC_001856.1,35634,36248,-,1194321,-,BB_J48,NP_045672.2,204,-,hypothetical protein BB_J48 (plasmid)
+lp54,NC_001857.2,1461,1970,+,1194324,-,BB_A03,NP_045676.1,169,-,outer membrane protein (plasmid)
+lp54,NC_001857.2,2045,2893,-,1194325,-,BB_A04,NP_045677.1,282,-,S2 antigen (plasmid)
+lp54,NC_001857.2,3003,4256,-,1194326,-,BB_A05,NP_045678.1,417,-,S1 antigen (plasmid)
+lp54,NC_001857.2,4667,5140,-,1194327,-,BB_A07,NP_045680.2,157,-,ChpAI protein (plasmid)
+lp54,NC_001857.2,5314,5649,+,1194328,-,BB_A08,NP_045681.1,111,-,hypothetical protein BB_A08 (plasmid)
+lp54,NC_001857.2,5646,6518,+,1194329,-,BB_A09,NP_045682.1,290,-,hypothetical protein BB_A09 (plasmid)
+lp54,NC_001857.2,6521,7147,+,1194330,-,BB_A10,NP_045683.1,208,-,hypothetical protein BB_A10 (plasmid)
+lp54,NC_001857.2,7209,8243,+,1194331,-,BB_A11,NP_045684.1,344,-,hypothetical protein BB_A11 (plasmid)
+lp54,NC_001857.2,8266,8445,+,1194332,-,BB_A12,NP_045685.1,59,-,BlyA family holin (plasmid)
+lp54,NC_001857.2,8442,8867,+,1194333,-,BB_A13,NP_045686.1,141,-,hypothetical protein BB_A13 (plasmid)
+lp54,NC_001857.2,9457,10278,+,1194357,ospA,BB_A15,NP_045688.1,273,-,outer surface protein A (plasmid)
+lp54,NC_001857.2,10288,11178,+,1194340,ospB,BB_A16,NP_045689.2,296,-,outer surface protein B (plasmid)
+lp54,NC_001857.2,12995,13579,+,1194343,-,BB_A19,NP_045692.1,194,-,hypothetical protein BB_A19 (plasmid)
+lp54,NC_001857.2,13555,14307,+,1194344,-,BB_A20,NP_045693.1,250,-,PF-32 protein (plasmid)
+lp54,NC_001857.2,14338,14883,+,1194345,-,BB_A21,NP_045694.1,181,-,PF-49 protein (plasmid)
+lp54,NC_001857.2,15370,15801,+,1194346,-,BB_A23,NP_045696.2,143,-,hypothetical protein BB_A23 (plasmid)
+lp54,NC_001857.2,16001,16576,-,1194347,dbpA,BB_A24,NP_045697.1,191,-,decorin-binding protein A (plasmid)
+lp54,NC_001857.2,16696,17259,-,1194341,dbpB,BB_A25,NP_045698.1,187,-,decorin-binding protein B (plasmid)
+lp54,NC_001857.2,18128,18721,+,1194393,-,BB_A30,NP_045703.1,197,-,hypothetical protein BB_A30 (plasmid)
+lp54,NC_001857.2,18725,20077,+,1194358,-,BB_A31,NP_045704.1,450,-,pbsx family phage terminase (plasmid)
+lp54,NC_001857.2,20718,20912,+,1194390,-,BB_A32,NP_045705.1,64,-,hypothetical protein BB_A32 (plasmid)
+lp54,NC_001857.2,21087,21626,+,1194394,-,BB_A33,NP_045706.1,179,-,lipoprotein (plasmid)
+lp54,NC_001857.2,21684,23273,-,1194359,-,BB_A34,NP_045707.1,529,-,"extracellular solute-binding protein, family 5 (plasmid)"
+lp54,NC_001857.2,23777,24415,+,1194360,-,BB_A36,NP_045709.2,212,-,lipoprotein (plasmid)
+lp54,NC_001857.2,24498,25103,+,1194396,-,BB_A37,NP_045710.1,201,-,hypothetical protein BB_A37 (plasmid)
+lp54,NC_001857.2,25468,26694,+,1194397,-,BB_A38,NP_045711.2,408,-,phage portal protein (plasmid)
+lp54,NC_001857.2,27390,27998,+,1194373,-,BB_A40,NP_045713.1,202,-,hypothetical protein BB_A40 (plasmid)
+lp54,NC_001857.2,28014,28931,+,1194348,-,BB_A41,NP_045714.1,305,-,hypothetical protein BB_A41 (plasmid)
+lp54,NC_001857.2,28935,29387,+,1194349,-,BB_A42,NP_045715.1,150,-,hypothetical protein BB_A42 (plasmid)
+lp54,NC_001857.2,29384,29758,+,1194350,-,BB_A43,NP_045716.1,124,-,hypothetical protein BB_A43 (plasmid)
+lp54,NC_001857.2,30094,30633,+,1194351,-,BB_A45,NP_045718.1,179,-,hypothetical protein BB_A45 (plasmid)
+lp54,NC_001857.2,30710,31780,+,1194375,-,BB_A46,NP_045719.1,356,-,hypothetical protein BB_A46 (plasmid)
+lp54,NC_001857.2,31780,32202,+,1194376,-,BB_A47,NP_045720.1,140,-,hypothetical protein BB_A47 (plasmid)
+lp54,NC_001857.2,32261,32749,+,1194377,-,BB_A48,NP_045721.1,162,-,hypothetical protein BB_A48 (plasmid)
+lp54,NC_001857.2,32742,32960,+,1194378,-,BB_A49,NP_045722.1,72,-,hypothetical protein BB_A49 (plasmid)
+lp54,NC_001857.2,34385,34948,+,1194380,-,BB_A51,NP_045724.1,187,-,hypothetical protein BB_A51 (plasmid)
+lp54,NC_001857.2,34988,35833,+,1194334,-,BB_A52,NP_045725.1,281,-,outer membrane protein (plasmid)
+lp54,NC_001857.2,35954,36229,+,1194363,-,BB_A53,NP_045726.1,91,-,Bbs27 protein (plasmid)
+lp54,NC_001857.2,36256,36534,+,1194364,-,BB_A54,NP_045727.1,92,-,hypothetical protein BB_A54 (plasmid)
+lp54,NC_001857.2,38161,39405,-,1194367,-,BB_A57,NP_045730.1,414,-,P45-13 (plasmid)
+lp54,NC_001857.2,39630,39833,+,1194368,-,BB_A58,NP_045731.1,67,-,hypothetical protein BB_A58 (plasmid)
+lp54,NC_001857.2,39873,40112,-,1194335,-,BB_A59,NP_045732.1,79,-,hypothetical protein BB_A59 (plasmid)
+lp54,NC_001857.2,40212,41045,-,1194336,-,BB_A60,NP_045733.1,277,-,surface lipoprotein P27 (plasmid)
+lp54,NC_001857.2,41396,42019,-,1194337,-,BB_A61,NP_045734.1,207,-,hypothetical protein BB_A61 (plasmid)
+lp54,NC_001857.2,42267,42473,+,1194338,lp6.6,BB_A62,NP_045735.1,68,-,6.6 kDa lipoprotein (plasmid)
+lp54,NC_001857.2,42624,43532,-,1194352,-,BB_A64,NP_045737.2,302,-,P35 antigen (plasmid)
+lp54,NC_001857.2,43685,44533,-,1194381,-,BB_A65,NP_045738.1,282,-,lipoprotein (plasmid)
+lp54,NC_001857.2,44712,45947,-,1194353,-,BB_A66,NP_045739.1,411,-,outer surface protein (plasmid)
+lp54,NC_001857.2,46473,47228,-,1194383,cspA,BB_A68,NP_045741.1,251,-,complement regulator-acquiring surface protein 1 (plasmid)
+lp54,NC_001857.2,47476,48267,-,1194384,-,BB_A69,NP_045742.1,263,-,putative surface protein (plasmid)
+lp54,NC_001857.2,49853,50077,-,11473656,-,BB_A0078,YP_004940408.1,74,-,lipoprotein (plasmid)
+lp54,NC_001857.2,50286,51176,-,1194354,-,BB_A73,NP_045746.1,296,-,antigen P35 (plasmid)
+lp54,NC_001857.2,51706,52479,+,1194355,osm28,BB_A74,NP_045747.1,257,-,outer membrane porin OMS28 (plasmid)
+lp54,NC_001857.2,52706,53503,+,1194339,thyX,BB_A76,NP_045749.1,265,-,FAD-dependent thymidylate synthase (plasmid)
+lp56,NC_000956.1,856,1407,+,1194750,-,BB_Q03,NP_051468.1,183,-,outer membrane protein (plasmid)
+lp56,NC_000956.1,2744,3496,+,1194752,-,BB_Q05,NP_051469.1,250,-,"antigen, P35 (plasmid)"
+lp56,NC_000956.1,3623,4108,+,1194753,-,BB_Q06,NP_051470.1,161,-,membrane protein (plasmid)
+lp56,NC_000956.1,4249,4986,-,1194754,-,BB_Q07,NP_051471.1,245,-,plasmid partition protein (plasmid)
+lp56,NC_000956.1,5069,5830,-,1194755,-,BB_Q08,NP_051472.1,253,-,PF-32 protein (plasmid)
+lp56,NC_000956.1,5803,6339,-,1194756,-,BB_Q09,NP_051473.1,178,-,hypothetical protein BB_Q09 (plasmid)
+lp56,NC_000956.1,6836,7411,+,1194795,-,BB_Q12,NP_051475.2,191,-,hypothetical protein BB_Q12 (plasmid)
+lp56,NC_000956.1,7433,8392,+,1194757,-,BB_Q13,NP_051476.2,319,-,hypothetical protein BB_Q13 (plasmid)
+lp56,NC_000956.1,8412,8867,+,1194758,-,BB_Q14,NP_051477.2,151,-,hypothetical protein BB_Q14 (plasmid)
+lp56,NC_000956.1,8867,9250,+,1194759,-,BB_Q15,NP_051478.2,127,-,hypothetical protein BB_Q15 (plasmid)
+lp56,NC_000956.1,9624,10190,+,1194761,-,BB_Q17,NP_051479.1,188,-,hypothetical protein BB_Q17 (plasmid)
+lp56,NC_000956.1,10171,11283,+,1194796,-,BB_Q18,NP_051480.1,370,-,hypothetical protein BB_Q18 (plasmid)
+lp56,NC_000956.1,11297,11725,+,1194797,-,BB_Q19,NP_051481.2,142,-,hypothetical protein BB_Q19 (plasmid)
+lp56,NC_000956.1,11741,12196,+,1194798,-,BB_Q20,NP_051482.1,151,-,hypothetical protein BB_Q20 (plasmid)
+lp56,NC_000956.1,12193,12429,+,1194799,-,BB_Q21,NP_051483.1,78,-,hypothetical protein BB_Q21 (plasmid)
+lp56,NC_000956.1,12437,13732,+,1194800,-,BB_Q22,NP_051484.1,431,-,hypothetical protein BB_Q22 (plasmid)
+lp56,NC_000956.1,13755,14438,+,1194801,-,BB_Q23,NP_051485.1,227,-,hypothetical protein BB_Q23 (plasmid)
+lp56,NC_000956.1,14442,15392,+,1194802,-,BB_Q24,NP_051486.1,316,-,hypothetical protein BB_Q24 (plasmid)
+lp56,NC_000956.1,15410,15964,+,1194803,-,BB_Q25,NP_051487.1,184,-,hypothetical protein BB_Q25 (plasmid)
+lp56,NC_000956.1,15994,16326,+,1194762,-,BB_Q26,NP_051488.1,110,-,hypothetical protein BB_Q26 (plasmid)
+lp56,NC_000956.1,16323,17198,+,1194763,-,BB_Q27,NP_051489.1,291,-,hypothetical protein BB_Q27 (plasmid)
+lp56,NC_000956.1,17208,17813,+,1194764,-,BB_Q28,NP_051490.1,201,-,hypothetical protein BB_Q28 (plasmid)
+lp56,NC_000956.1,17823,18638,+,1194765,-,BB_Q29,NP_051491.1,271,-,hypothetical protein BB_Q29 (plasmid)
+lp56,NC_000956.1,18713,18916,+,1194766,blyA,BB_Q30,NP_051492.1,67,-,holin protein (plasmid)
+lp56,NC_000956.1,18920,19267,+,1194767,blyB,BB_Q31,NP_051493.1,115,-,holin protein (plasmid)
+lp56,NC_000956.1,19257,19592,+,1194768,-,BB_Q32,NP_051494.1,111,-,hypothetical protein BB_Q32 (plasmid)
+lp56,NC_000956.1,19585,19938,+,1194769,-,BB_Q33,NP_051495.2,117,-,hypothetical protein BB_Q33 (plasmid)
+lp56,NC_000956.1,20043,20738,+,1194770,bdrW,BB_Q34,NP_051496.2,231,-,protein BdrW protein (plasmid)
+lp56,NC_000956.1,20844,21455,+,1194771,mlpJ,BB_Q35,NP_051497.1,203,-,protein MlpJ (plasmid)
+lp56,NC_000956.1,21532,22479,-,1194772,-,BB_Q37,NP_051499.1,315,-,hypothetical protein BB_Q37 (plasmid)
+lp56,NC_000956.1,22869,23966,+,1194773,-,BB_Q38,NP_051500.1,365,-,hypothetical protein BB_Q38 (plasmid)
+lp56,NC_000956.1,23976,24542,+,1194774,-,BB_Q39,NP_051501.1,188,-,hypothetical protein BB_Q39 (plasmid)
+lp56,NC_000956.1,24518,25273,+,1194775,-,BB_Q40,NP_051502.1,251,-,PF-32 protein (plasmid)
+lp56,NC_000956.1,25890,26426,+,1194777,bdrV,BB_Q42,NP_051504.1,178,-,protein BdrV (plasmid)
+lp56,NC_000956.1,26921,28246,+,1194778,bppA,BB_Q43,NP_051505.2,441,-,protein BppA (plasmid)
+lp56,NC_000956.1,28299,28724,+,1194779,bppB,BB_Q44,NP_051506.1,141,-,protein BppB (plasmid)
+lp56,NC_000956.1,28730,29506,-,1194780,bppC,BB_Q45,NP_051507.1,258,-,protein BppC (plasmid)
+lp56,NC_000956.1,29937,30974,+,1194781,erpX,BB_Q47,NP_051509.1,345,-,protein ErpX (plasmid)
+lp56,NC_000956.1,31168,31710,+,1194806,-,BB_Q48,NP_051510.2,180,-,hypothetical protein BB_Q48 (plasmid)
+lp56,NC_000956.1,31892,32458,+,1194807,-,BB_Q49,NP_051511.1,188,-,hypothetical protein BB_Q49 (plasmid)
+lp56,NC_000956.1,32455,33807,+,1194782,-,BB_Q50,NP_051512.1,450,-,phage terminase large subunit (plasmid)
+lp56,NC_000956.1,35115,35807,+,1194808,-,BB_Q52,NP_051513.1,230,-,hypothetical protein BB_Q52 (plasmid)
+lp56,NC_000956.1,35819,36385,+,1194809,-,BB_Q53,NP_051514.1,188,-,hypothetical protein BB_Q53 (plasmid)
+lp56,NC_000956.1,36389,37135,+,1194810,-,BB_Q54,NP_051515.1,248,-,hypothetical protein BB_Q54 (plasmid)
+lp56,NC_000956.1,39531,39905,+,1194816,-,BB_Q62,NP_051521.1,124,-,hypothetical protein BB_Q62 (plasmid)
+lp56,NC_000956.1,40436,43696,-,1194785,-,BB_Q67,NP_051524.2,1086,-,adenine specific DNA methyltransferase (plasmid)
+lp56,NC_000956.1,50288,50461,+,11473551,-,BB_Q0091,YP_004940632.1,57,-,hypothetical protein BB_Q0091 (plasmid)
+lp56,NC_000956.1,51172,51528,-,1194792,-,BB_Q85,NP_051533.1,118,-,hypothetical protein BB_Q85 (plasmid)
+lp56,NC_000956.1,52135,52608,-,1194829,-,BB_Q88,NP_051536.1,157,-,hypothetical protein BB_Q88 (plasmid)
+lp56,NC_000956.1,52532,52726,-,1194830,-,BB_Q89,NP_051537.1,64,-,lipoprotein (plasmid)
+cp32-1,NC_000948.1,66,1289,+,1194468,-,BB_P01,NP_051162.1,407,-,phage portal protein (plasmid)
+cp32-1,NC_000948.1,1306,1998,+,1194469,-,BB_P02,NP_051163.1,230,-,hypothetical protein BB_P02 (plasmid)
+cp32-1,NC_000948.1,2011,2568,+,1194470,-,BB_P03,NP_051164.1,185,-,hypothetical protein BB_P03 (plasmid)
+cp32-1,NC_000948.1,2575,3339,+,1194471,-,BB_P04,NP_051165.1,254,-,hypothetical protein BB_P04 (plasmid)
+cp32-1,NC_000948.1,3963,4922,+,1194442,-,BB_P06,NP_051167.2,319,-,hypothetical protein BB_P06 (plasmid)
+cp32-1,NC_000948.1,4942,5397,+,1194443,-,BB_P07,NP_051168.2,151,-,hypothetical protein BB_P07 (plasmid)
+cp32-1,NC_000948.1,5397,5780,+,1194444,-,BB_P08,NP_051169.2,127,-,hypothetical protein BB_P08 (plasmid)
+cp32-1,NC_000948.1,5768,6157,+,1194445,-,BB_P09,NP_051170.1,129,-,hypothetical protein BB_P09 (plasmid)
+cp32-1,NC_000948.1,6154,6720,+,1194446,-,BB_P10,NP_051171.1,188,-,hypothetical protein BB_P10 (plasmid)
+cp32-1,NC_000948.1,6701,7813,+,1194473,-,BB_P11,NP_051172.1,370,-,hypothetical protein BB_P11 (plasmid)
+cp32-1,NC_000948.1,7828,8256,+,1194474,-,BB_P12,NP_051173.1,142,-,hypothetical protein BB_P12 (plasmid)
+cp32-1,NC_000948.1,8272,8727,+,1194475,-,BB_P13,NP_051174.1,151,-,hypothetical protein BB_P13 (plasmid)
+cp32-1,NC_000948.1,8724,8960,+,1194476,-,BB_P14,NP_051175.1,78,-,hypothetical protein BB_P14 (plasmid)
+cp32-1,NC_000948.1,8968,10242,+,1194477,-,BB_P15,NP_051176.1,424,-,hypothetical protein BB_P15 (plasmid)
+cp32-1,NC_000948.1,10265,10948,+,1194478,-,BB_P16,NP_051177.1,227,-,hypothetical protein BB_P16 (plasmid)
+cp32-1,NC_000948.1,10952,11902,+,1194479,-,BB_P17,NP_051178.1,316,-,hypothetical protein BB_P17 (plasmid)
+cp32-1,NC_000948.1,11920,12465,+,1194480,-,BB_P18,NP_051179.1,181,-,hypothetical protein BB_P18 (plasmid)
+cp32-1,NC_000948.1,12495,12827,+,1194447,-,BB_P19,NP_051180.1,110,-,hypothetical protein BB_P19 (plasmid)
+cp32-1,NC_000948.1,12824,13699,+,1194448,-,BB_P20,NP_051181.1,291,-,hypothetical protein BB_P20 (plasmid)
+cp32-1,NC_000948.1,13709,14314,+,1194449,-,BB_P21,NP_051182.1,201,-,hypothetical protein BB_P21 (plasmid)
+cp32-1,NC_000948.1,14324,15139,+,1194450,-,BB_P22,NP_051183.1,271,-,hypothetical protein BB_P22 (plasmid)
+cp32-1,NC_000948.1,15215,15418,+,1194451,blyA,BB_P23,NP_051184.1,67,-,holin protein (plasmid)
+cp32-1,NC_000948.1,15422,15769,+,1194452,blyB,BB_P24,NP_051185.1,115,-,holin protein (plasmid)
+cp32-1,NC_000948.1,15759,16094,+,1194453,-,BB_P25,NP_051186.1,111,-,hypothetical protein BB_P25 (plasmid)
+cp32-1,NC_000948.1,16087,16440,+,1194454,-,BB_P26,NP_051187.2,117,-,hypothetical protein BB_P26 (plasmid)
+cp32-1,NC_000948.1,16578,17060,-,1194455,revA,BB_P27,NP_051188.1,160,-,surface protein (plasmid)
+cp32-1,NC_000948.1,17232,17678,+,1194456,mlpA,BB_P28,NP_051189.1,148,-,surface lipoprotein (plasmid)
+cp32-1,NC_000948.1,17715,18728,-,1194457,-,BB_P29,NP_051190.1,337,-,hypothetical protein BB_P29 (plasmid)
+cp32-1,NC_000948.1,19114,20214,+,1194458,-,BB_P30,NP_051191.1,366,-,hypothetical protein BB_P30 (plasmid)
+cp32-1,NC_000948.1,20224,20790,+,1194459,-,BB_P31,NP_051192.1,188,-,hypothetical protein BB_P31 (plasmid)
+cp32-1,NC_000948.1,20766,21506,+,1194460,-,BB_P32,NP_051193.1,246,-,PF-32 protein (plasmid)
+cp32-1,NC_000948.1,21561,22118,+,1194461,-,BB_P33,NP_051194.2,185,-,PF-49 protein (plasmid)
+cp32-1,NC_000948.1,22131,22763,+,1194462,bdrA,BB_P34,NP_051195.1,210,-,BdrA (plasmid)
+cp32-1,NC_000948.1,23231,24556,+,1194463,bppA,BB_P35,NP_051196.1,441,-,BppA (plasmid)
+cp32-1,NC_000948.1,24609,25034,+,1194464,bppB,BB_P36,NP_051197.1,141,-,BppB (plasmid)
+cp32-1,NC_000948.1,25040,25816,-,1194465,bppC,BB_P37,NP_051198.1,258,-,site-specific recombinase (plasmid)
+cp32-1,NC_000948.1,26235,26768,+,1194439,erpA,BB_P38,NP_051199.2,177,-,ErpA (plasmid)
+cp32-1,NC_000948.1,26796,27932,+,1194440,erpB,BB_P39,NP_051200.1,378,-,ErpB (plasmid)
+cp32-1,NC_000948.1,28116,28655,+,1194466,-,BB_P40,NP_051201.2,179,-,hypothetical protein BB_P40 (plasmid)
+cp32-1,NC_000948.1,28835,29401,+,1194467,-,BB_P41,NP_051202.1,188,-,hypothetical protein BB_P41 (plasmid)
+cp32-1,NC_000948.1,29398,30750,+,1194441,-,BB_P42,NP_051203.1,450,-,phage terminase large subunit (plasmid)
+cp32-3,NC_000949.1,66,1289,+,1194513,-,BB_S01,NP_051204.1,407,-,phage portal protein (plasmid)
+cp32-3,NC_000949.1,1306,1998,+,1194514,-,BB_S02,NP_051205.1,230,-,hypothetical protein BB_S02 (plasmid)
+cp32-3,NC_000949.1,2011,2568,+,1194515,-,BB_S03,NP_051206.1,185,-,hypothetical protein BB_S03 (plasmid)
+cp32-3,NC_000949.1,2575,3339,+,1194516,-,BB_S04,NP_051207.1,254,-,hypothetical protein BB_S04 (plasmid)
+cp32-3,NC_000949.1,3963,4922,+,1194502,-,BB_S06,NP_051209.1,319,-,hypothetical protein BB_S06 (plasmid)
+cp32-3,NC_000949.1,4942,5397,+,1194503,-,BB_S07,NP_051210.2,151,-,hypothetical protein BB_S07 (plasmid)
+cp32-3,NC_000949.1,5397,5780,+,1194504,-,BB_S08,NP_051211.2,127,-,hypothetical protein BB_S08 (plasmid)
+cp32-3,NC_000949.1,5768,6157,+,1194505,-,BB_S09,NP_051212.1,129,-,hypothetical protein BB_S09 (plasmid)
+cp32-3,NC_000949.1,6154,6720,+,1194506,-,BB_S10,NP_051213.1,188,-,hypothetical protein BB_S10 (plasmid)
+cp32-3,NC_000949.1,6701,7813,+,1194518,-,BB_S11,NP_051214.1,370,-,hypothetical protein BB_S11 (plasmid)
+cp32-3,NC_000949.1,7828,8256,+,1194519,-,BB_S12,NP_051215.1,142,-,hypothetical protein BB_S12 (plasmid)
+cp32-3,NC_000949.1,8272,8727,+,1194520,-,BB_S13,NP_051216.1,151,-,hypothetical protein BB_S13 (plasmid)
+cp32-3,NC_000949.1,8724,8960,+,1194521,-,BB_S14,NP_051217.1,78,-,hypothetical protein BB_S14 (plasmid)
+cp32-3,NC_000949.1,8968,10242,+,1194522,-,BB_S15,NP_051218.1,424,-,hypothetical protein BB_S15 (plasmid)
+cp32-3,NC_000949.1,10265,10948,+,1194523,-,BB_S16,NP_051219.1,227,-,hypothetical protein BB_S16 (plasmid)
+cp32-3,NC_000949.1,10952,11902,+,1194524,-,BB_S17,NP_051220.1,316,-,hypothetical protein BB_S17 (plasmid)
+cp32-3,NC_000949.1,11920,12465,+,1194525,-,BB_S18,NP_051221.1,181,-,hypothetical protein BB_S18 (plasmid)
+cp32-3,NC_000949.1,12495,12827,+,1194507,-,BB_S19,NP_051222.1,110,-,hypothetical protein BB_S19 (plasmid)
+cp32-3,NC_000949.1,12824,13699,+,1194508,-,BB_S20,NP_051223.1,291,-,hypothetical protein BB_S20 (plasmid)
+cp32-3,NC_000949.1,13709,14314,+,1194481,-,BB_S21,NP_051224.2,201,-,hypothetical protein BB_S21 (plasmid)
+cp32-3,NC_000949.1,15212,15415,+,1194483,blyA,BB_S23,NP_051226.1,67,-,holin protein (plasmid)
+cp32-3,NC_000949.1,15419,15766,+,1194484,blyB,BB_S24,NP_051227.1,115,-,holin protein (plasmid)
+cp32-3,NC_000949.1,15756,16091,+,1194485,-,BB_S25,NP_051228.1,111,-,hypothetical protein BB_S25 (plasmid)
+cp32-3,NC_000949.1,16084,16437,+,1194486,-,BB_S26,NP_051229.2,117,-,hypothetical protein BB_S26 (plasmid)
+cp32-3,NC_000949.1,16586,16903,+,1194509,-,BB_S27,NP_051230.1,105,-,hypothetical protein BB_S27 (plasmid)
+cp32-3,NC_000949.1,17089,17697,+,1194487,bdrF,BB_S29,NP_051232.2,202,-,protein BdrF (plasmid)
+cp32-3,NC_000949.1,17803,18249,+,1194488,mlpC,BB_S30,NP_051233.1,148,-,lipoprotein (plasmid)
+cp32-3,NC_000949.1,18287,19228,-,1194489,-,BB_S31,NP_051234.2,313,-,hypothetical protein BB_S31 (plasmid)
+cp32-3,NC_000949.1,19605,20705,+,1194491,-,BB_S33,NP_051236.1,366,-,hypothetical protein BB_S33 (plasmid)
+cp32-3,NC_000949.1,20715,21281,+,1194492,-,BB_S34,NP_051237.1,188,-,hypothetical protein BB_S34 (plasmid)
+cp32-3,NC_000949.1,21257,21997,+,1194493,-,BB_S35,NP_051238.1,246,-,PF-32 protein (plasmid)
+cp32-3,NC_000949.1,22593,23183,+,1194495,bdrE,BB_S37,NP_051240.1,196,-,protein BdrE (plasmid)
+cp32-3,NC_000949.1,23691,25016,+,1194496,bppA,BB_S38,NP_051241.2,441,-,protein BppA (plasmid)
+cp32-3,NC_000949.1,25069,25494,+,1194497,bppB,BB_S39,NP_051242.1,141,-,protein BppB (plasmid)
+cp32-3,NC_000949.1,25500,26276,-,1194498,bppC,BB_S40,NP_051243.1,258,-,protein BppC (plasmid)
+cp32-3,NC_000949.1,26708,27298,+,1194499,erpG,BB_S41,NP_051244.1,196,-,outer surface protein ErpG (plasmid)
+cp32-3,NC_000949.1,27410,27919,+,1194500,bapA,BB_S42,NP_051245.1,169,-,BapA protein (plasmid)
+cp32-3,NC_000949.1,28236,28874,+,1194512,-,BB_S44,NP_051247.1,212,-,hypothetical protein BB_S44 (plasmid)
+cp32-3,NC_000949.1,28871,30223,+,1194501,-,BB_S45,NP_051248.1,450,-,phage terminase large subunit (plasmid)
+cp32-4,NC_000950.1,66,1289,+,1194556,-,BB_R01,NP_051249.1,407,-,hypothetical protein BB_R01 (plasmid)
+cp32-4,NC_000950.1,2013,2576,+,1194557,-,BB_R03,NP_051250.1,187,-,hypothetical protein BB_R03 (plasmid)
+cp32-4,NC_000950.1,2580,3347,+,1194558,-,BB_R04,NP_051251.1,255,-,hypothetical protein BB_R04 (plasmid)
+cp32-4,NC_000950.1,3376,3951,+,1194559,-,BB_R05,NP_051252.2,191,-,hypothetical protein BB_R05 (plasmid)
+cp32-4,NC_000950.1,3973,4932,+,1194529,-,BB_R06,NP_051253.2,319,-,hypothetical protein BB_R06 (plasmid)
+cp32-4,NC_000950.1,4952,5407,+,1194530,-,BB_R07,NP_051254.1,151,-,hypothetical protein BB_R07 (plasmid)
+cp32-4,NC_000950.1,5407,5790,+,1194531,-,BB_R08,NP_051255.2,127,-,hypothetical protein BB_R08 (plasmid)
+cp32-4,NC_000950.1,5778,6167,+,1194532,-,BB_R09,NP_051256.1,129,-,hypothetical protein BB_R09 (plasmid)
+cp32-4,NC_000950.1,6164,6730,+,1194533,-,BB_R10,NP_051257.1,188,-,hypothetical protein BB_R10 (plasmid)
+cp32-4,NC_000950.1,6711,7823,+,1194560,-,BB_R11,NP_051258.1,370,-,hypothetical protein BB_R11 (plasmid)
+cp32-4,NC_000950.1,7838,8266,+,1194561,-,BB_R12,NP_051259.1,142,-,hypothetical protein BB_R12 (plasmid)
+cp32-4,NC_000950.1,8282,8737,+,1194562,-,BB_R13,NP_051260.1,151,-,hypothetical protein BB_R13 (plasmid)
+cp32-4,NC_000950.1,8734,8970,+,1194563,-,BB_R14,NP_051261.1,78,-,hypothetical protein BB_R14 (plasmid)
+cp32-4,NC_000950.1,8978,10273,+,1194564,-,BB_R15,NP_051262.1,431,-,hypothetical protein BB_R15 (plasmid)
+cp32-4,NC_000950.1,10296,10892,+,1194565,-,BB_R16,NP_051263.1,198,-,hypothetical protein BB_R16 (plasmid)
+cp32-4,NC_000950.1,10896,11846,+,1194566,-,BB_R17,NP_051264.1,316,-,hypothetical protein BB_R17 (plasmid)
+cp32-4,NC_000950.1,11864,12418,+,1194567,-,BB_R18,NP_051265.1,184,-,hypothetical protein BB_R18 (plasmid)
+cp32-4,NC_000950.1,12448,12780,+,1194534,-,BB_R19,NP_051266.1,110,-,hypothetical protein BB_R19 (plasmid)
+cp32-4,NC_000950.1,12777,13652,+,1194535,-,BB_R20,NP_051267.1,291,-,hypothetical protein BB_R20 (plasmid)
+cp32-4,NC_000950.1,13662,14267,+,1194536,-,BB_R21,NP_051268.1,201,-,hypothetical protein BB_R21 (plasmid)
+cp32-4,NC_000950.1,14277,15092,+,1194537,-,BB_R22,NP_051269.1,271,-,hypothetical protein BB_R22 (plasmid)
+cp32-4,NC_000950.1,15167,15370,+,1194538,blyA,BB_R23,NP_051270.1,67,-,pore-forming hemolysin (plasmid)
+cp32-4,NC_000950.1,15374,15721,+,1194539,blyB,BB_R24,NP_051271.1,115,-,hemolysin accessory protein (plasmid)
+cp32-4,NC_000950.1,15711,16046,+,1194540,-,BB_R25,NP_051272.1,111,-,hypothetical protein BB_R25 (plasmid)
+cp32-4,NC_000950.1,16039,16392,+,1194541,-,BB_R26,NP_051273.2,117,-,hypothetical protein BB_R26 (plasmid)
+cp32-4,NC_000950.1,16497,16997,+,1194542,bdrH,BB_R27,NP_051274.2,166,-,BdrH (plasmid)
+cp32-4,NC_000950.1,17103,17525,+,1194543,mlpD,BB_R28,NP_051275.1,140,-,lipoprotein (plasmid)
+cp32-4,NC_000950.1,17573,18583,-,1194544,-,BB_R29,NP_051276.2,336,-,hypothetical protein BB_R29 (plasmid)
+cp32-4,NC_000950.1,18960,20057,+,1194545,-,BB_R31,NP_051278.1,365,-,hypothetical protein BB_R31 (plasmid)
+cp32-4,NC_000950.1,20067,20633,+,1194546,-,BB_R32,NP_051279.1,188,-,hypothetical protein BB_R32 (plasmid)
+cp32-4,NC_000950.1,20609,21364,+,1194547,-,BB_R33,NP_051280.1,251,-,"plasmid partition protein, putative (plasmid)"
+cp32-4,NC_000950.1,21415,21960,+,1194548,-,BB_R34,NP_051281.1,181,-,hypothetical protein BB_R34 (plasmid)
+cp32-4,NC_000950.1,22831,24156,+,1194550,bppA,BB_R36,NP_051282.1,441,-,BppA (plasmid)
+cp32-4,NC_000950.1,24210,24635,+,1194551,bppB,BB_R37,NP_051283.1,141,-,BppB (plasmid)
+cp32-4,NC_000950.1,24641,25435,-,1194552,bppC,BB_R38,NP_051284.1,264,-,BppC (plasmid)
+cp32-4,NC_000950.1,26005,26820,+,1194526,-,BB_R41,NP_051287.2,271,-,hypothetical protein BB_R41 (plasmid)
+cp32-4,NC_000950.1,26853,27527,+,1194527,erpY,BB_R42,NP_051288.1,224,-,ErpY (plasmid)
+cp32-4,NC_000950.1,27676,28203,+,1194554,-,BB_R43,NP_051289.2,175,-,hypothetical protein BB_R43 (plasmid)
+cp32-4,NC_000950.1,28384,28950,+,1194555,-,BB_R44,NP_051290.1,188,-,hypothetical protein BB_R44 (plasmid)
+cp32-4,NC_000950.1,28947,30299,+,1194528,-,BB_R45,NP_051291.1,450,-,phage terminase large subunit (plasmid)
+cp32-6,NC_000951.1,66,1289,+,1194601,-,BB_M01,NP_051292.1,407,-,phage portal protein (plasmid)
+cp32-6,NC_000951.1,1306,1998,+,1194602,-,BB_M02,NP_051293.1,230,-,hypothetical protein BB_M02 (plasmid)
+cp32-6,NC_000951.1,2010,2573,+,1194603,-,BB_M03,NP_051294.1,187,-,hypothetical protein BB_M03 (plasmid)
+cp32-6,NC_000951.1,2577,3344,+,1194604,-,BB_M04,NP_051295.1,255,-,hypothetical protein BB_M04 (plasmid)
+cp32-6,NC_000951.1,3373,3948,+,1194605,-,BB_M05,NP_051296.2,191,-,hypothetical protein BB_M05 (plasmid)
+cp32-6,NC_000951.1,3970,4929,+,1194591,-,BB_M06,NP_051297.2,319,-,hypothetical protein BB_M06 (plasmid)
+cp32-6,NC_000951.1,4949,5404,+,1194592,-,BB_M07,NP_051298.1,151,-,hypothetical protein BB_M07 (plasmid)
+cp32-6,NC_000951.1,5404,5787,+,1194593,-,BB_M08,NP_051299.2,127,-,hypothetical protein BB_M08 (plasmid)
+cp32-6,NC_000951.1,5775,6164,+,1194594,-,BB_M09,NP_051300.1,129,-,hypothetical protein BB_M09 (plasmid)
+cp32-6,NC_000951.1,6161,6730,+,1194595,-,BB_M10,NP_051301.1,189,-,hypothetical protein BB_M10 (plasmid)
+cp32-6,NC_000951.1,6711,7823,+,1194606,-,BB_M11,NP_051302.1,370,-,hypothetical protein BB_M11 (plasmid)
+cp32-6,NC_000951.1,7838,8266,+,1194607,-,BB_M12,NP_051303.1,142,-,hypothetical protein BB_M12 (plasmid)
+cp32-6,NC_000951.1,8282,8737,+,1194608,-,BB_M13,NP_051304.1,151,-,hypothetical protein BB_M13 (plasmid)
+cp32-6,NC_000951.1,8734,8970,+,1194609,-,BB_M14,NP_051305.1,78,-,hypothetical protein BB_M14 (plasmid)
+cp32-6,NC_000951.1,8978,10252,+,1194610,-,BB_M15,NP_051306.1,424,-,hypothetical protein BB_M15 (plasmid)
+cp32-6,NC_000951.1,10275,10958,+,1194611,-,BB_M16,NP_051307.1,227,-,hypothetical protein BB_M16 (plasmid)
+cp32-6,NC_000951.1,10962,11912,+,1194596,-,BB_M17,NP_051308.1,316,-,hypothetical protein BB_M17 (plasmid)
+cp32-6,NC_000951.1,11930,12484,+,1194597,-,BB_M18,NP_051309.1,184,-,hypothetical protein BB_M18 (plasmid)
+cp32-6,NC_000951.1,12514,12846,+,1194570,-,BB_M19,NP_051310.1,110,-,hypothetical protein BB_M19 (plasmid)
+cp32-6,NC_000951.1,12843,13718,+,1194571,-,BB_M20,NP_051311.1,291,-,hypothetical protein BB_M20 (plasmid)
+cp32-6,NC_000951.1,13728,14333,+,1194572,-,BB_M21,NP_051312.1,201,-,hypothetical protein BB_M21 (plasmid)
+cp32-6,NC_000951.1,15231,15434,+,1194574,blyA,BB_M23,NP_051314.1,67,-,holin protein (plasmid)
+cp32-6,NC_000951.1,15438,15785,+,1194575,blyB,BB_M24,NP_051315.1,115,-,holin protein (plasmid)
+cp32-6,NC_000951.1,15775,16110,+,1194576,-,BB_M25,NP_051316.1,111,-,hypothetical protein BB_M25 (plasmid)
+cp32-6,NC_000951.1,16103,16456,+,1194577,-,BB_M26,NP_051317.2,117,-,hypothetical protein BB_M26 (plasmid)
+cp32-6,NC_000951.1,16593,17075,-,1194578,revA,BB_M27,NP_051318.1,160,-,rev protein (plasmid)
+cp32-6,NC_000951.1,17247,17696,+,1194579,mlpF,BB_M28,NP_051319.1,149,-,lipoprotein (plasmid)
+cp32-6,NC_000951.1,17733,18680,-,1194580,-,BB_M29,NP_051320.1,315,-,hypothetical protein BB_M29 (plasmid)
+cp32-6,NC_000951.1,19069,20169,+,1194581,-,BB_M30,NP_051321.1,366,-,hypothetical protein BB_M30 (plasmid)
+cp32-6,NC_000951.1,20179,20745,+,1194582,-,BB_M31,NP_051322.1,188,-,hypothetical protein BB_M31 (plasmid)
+cp32-6,NC_000951.1,20721,21470,+,1194583,-,BB_M32,NP_051323.1,249,-,PF-32 protein (plasmid)
+cp32-6,NC_000951.1,21520,22098,+,1194584,-,BB_M33,NP_051324.1,192,-,PF-49 protein (plasmid)
+cp32-6,NC_000951.1,22102,22770,+,1194585,bdrK,BB_M34,NP_051325.1,222,-,BdrK (plasmid)
+cp32-6,NC_000951.1,23241,24566,+,1194586,bppA,BB_M35,NP_051326.1,441,-,BppA (plasmid)
+cp32-6,NC_000951.1,24619,25044,+,1194587,bppB,BB_M36,NP_051327.1,141,-,BppB (plasmid)
+cp32-6,NC_000951.1,25050,25820,-,1194588,bppC,BB_M37,NP_051328.1,256,-,BppC (plasmid)
+cp32-6,NC_000951.1,26257,27015,+,1194589,erpK,BB_M38,NP_051329.2,252,-,ErpK protein (plasmid)
+cp32-6,NC_000951.1,27077,27745,-,1194599,-,BB_M39,NP_051330.1,222,-,hypothetical protein BB_M39 (plasmid)
+cp32-6,NC_000951.1,27923,28489,+,1194600,-,BB_M41,NP_051332.1,188,-,hypothetical protein BB_M41 (plasmid)
+cp32-6,NC_000951.1,28486,29838,+,1194590,-,BB_M42,NP_051333.1,450,-,phage terminase large subunit (plasmid)
+cp32-7,NC_000952.1,65,1288,+,1194642,-,BB_O01,NP_051334.1,407,-,hypothetical protein BB_O01 (plasmid)
+cp32-7,NC_000952.1,1305,1997,+,1194643,-,BB_O02,NP_051335.1,230,-,hypothetical protein BB_O02 (plasmid)
+cp32-7,NC_000952.1,2010,2567,+,1194644,-,BB_O03,NP_051336.1,185,-,hypothetical protein BB_O03 (plasmid)
+cp32-7,NC_000952.1,2574,3338,+,1194645,-,BB_O04,NP_051337.1,254,-,hypothetical protein BB_O04 (plasmid)
+cp32-7,NC_000952.1,3368,3940,+,1194646,-,BB_O05,NP_051338.1,190,-,hypothetical protein BB_O05 (plasmid)
+cp32-7,NC_000952.1,3962,4921,+,1194623,-,BB_O06,NP_051339.1,319,-,hypothetical protein BB_O06 (plasmid)
+cp32-7,NC_000952.1,4935,5396,+,1194624,-,BB_O07,NP_051340.1,153,-,hypothetical protein BB_O07 (plasmid)
+cp32-7,NC_000952.1,5378,5779,+,1194625,-,BB_O08,NP_051341.1,133,-,hypothetical protein BB_O08 (plasmid)
+cp32-7,NC_000952.1,5767,6156,+,1194626,-,BB_O09,NP_051342.1,129,-,hypothetical protein BB_O09 (plasmid)
+cp32-7,NC_000952.1,6153,6722,+,1194627,-,BB_O10,NP_051343.1,189,-,hypothetical protein BB_O10 (plasmid)
+cp32-7,NC_000952.1,6703,7815,+,1194647,-,BB_O11,NP_051344.1,370,-,hypothetical protein BB_O11 (plasmid)
+cp32-7,NC_000952.1,7830,8258,+,1194648,-,BB_O12,NP_051345.1,142,-,hypothetical protein BB_O12 (plasmid)
+cp32-7,NC_000952.1,8274,8729,+,1194649,-,BB_O13,NP_051346.1,151,-,hypothetical protein BB_O13 (plasmid)
+cp32-7,NC_000952.1,8726,8962,+,1194650,-,BB_O14,NP_051347.1,78,-,hypothetical protein BB_O14 (plasmid)
+cp32-7,NC_000952.1,8970,10304,+,1194651,-,BB_O15,NP_051348.1,444,-,hypothetical protein BB_O15 (plasmid)
+cp32-7,NC_000952.1,10317,10958,+,1194652,-,BB_O16,NP_051349.1,213,-,hypothetical protein BB_O16 (plasmid)
+cp32-7,NC_000952.1,10962,11903,+,1194653,-,BB_O17,NP_051350.1,313,-,hypothetical protein BB_O17 (plasmid)
+cp32-7,NC_000952.1,11904,12473,+,1194654,-,BB_O18,NP_051351.1,189,-,hypothetical protein BB_O18 (plasmid)
+cp32-7,NC_000952.1,12503,12835,+,1194628,-,BB_O19,NP_051352.1,110,-,hypothetical protein BB_O19 (plasmid)
+cp32-7,NC_000952.1,12832,13710,+,1194629,-,BB_O20,NP_051353.1,292,-,hypothetical protein BB_O20 (plasmid)
+cp32-7,NC_000952.1,13716,14321,+,1194630,-,BB_O21,NP_051354.1,201,-,hypothetical protein BB_O21 (plasmid)
+cp32-7,NC_000952.1,14331,15146,+,1194631,-,BB_O22,NP_051355.1,271,-,hypothetical protein BB_O22 (plasmid)
+cp32-7,NC_000952.1,15222,15425,+,1194632,blyA,BB_O23,NP_051356.1,67,-,holin protein (plasmid)
+cp32-7,NC_000952.1,15429,15785,+,1194633,blyB,BB_O24,NP_051357.1,118,-,holin protein (plasmid)
+cp32-7,NC_000952.1,15766,16101,+,1194634,-,BB_O25,NP_051358.1,111,-,hypothetical protein BB_O25 (plasmid)
+cp32-7,NC_000952.1,16088,16447,+,1194635,-,BB_O26,NP_051359.1,119,-,hypothetical protein BB_O26 (plasmid)
+cp32-7,NC_000952.1,16522,17139,+,1194636,bdrN,BB_O27,NP_051360.1,205,-,protein BdrN (plasmid)
+cp32-7,NC_000952.1,17245,17667,+,1194637,mlpG,BB_O28,NP_051361.1,140,-,lipoprotein (plasmid)
+cp32-7,NC_000952.1,17712,18770,-,1194655,-,BB_O29,NP_051362.1,352,-,hypothetical protein BB_O29 (plasmid)
+cp32-7,NC_000952.1,19117,20214,+,1194612,-,BB_O30,NP_051363.1,365,-,hypothetical protein BB_O30 (plasmid)
+cp32-7,NC_000952.1,20224,20790,+,1194613,-,BB_O31,NP_051364.1,188,-,hypothetical protein BB_O31 (plasmid)
+cp32-7,NC_000952.1,20766,21515,+,1194614,-,BB_O32,NP_051365.1,249,-,PF-32 protein (plasmid)
+cp32-7,NC_000952.1,21522,22076,+,1194615,-,BB_O33,NP_051366.1,184,-,plasmid partition protein (plasmid)
+cp32-7,NC_000952.1,22088,22660,+,1194616,bdrM,BB_O34,NP_051367.1,190,-,protein BdrM (plasmid)
+cp32-7,NC_000952.1,22627,22755,-,1194638,-,BB_O35,NP_051368.1,42,-,hypothetical protein BB_O35 (plasmid)
+cp32-7,NC_000952.1,23093,24460,+,1194617,bppA,BB_O36,NP_051369.1,455,-,protein BppA (plasmid)
+cp32-7,NC_000952.1,24513,24938,+,1194618,bppB,BB_O37,NP_051370.1,141,-,protein BppB (plasmid)
+cp32-7,NC_000952.1,24944,25720,-,1194619,bppC,BB_O38,NP_051371.1,258,-,protein BppC (plasmid)
+cp32-7,NC_000952.1,26152,26841,+,1194620,erpL,BB_O39,NP_051372.1,229,-,protein ErpL (plasmid)
+cp32-7,NC_000952.1,26893,27984,+,1194621,erpM,BB_O40,NP_051373.1,363,-,protein ErpM (plasmid)
+cp32-7,NC_000952.1,28004,28117,-,1194639,-,BB_O41,NP_051374.1,37,-,hypothetical protein BB_O41 (plasmid)
+cp32-7,NC_000952.1,28134,28703,+,1194640,-,BB_O42,NP_051375.1,189,-,hypothetical protein BB_O42 (plasmid)
+cp32-7,NC_000952.1,28885,29451,+,1194641,-,BB_O43,NP_051376.1,188,-,hypothetical protein BB_O43 (plasmid)
+cp32-7,NC_000952.1,29448,30800,+,1194622,-,BB_O44,NP_051377.1,450,-,phage terminase large subunit (plasmid)
+cp32-8,NC_000953.1,66,1289,+,1194686,-,BB_L01,NP_051378.1,407,-,phage portal protein (plasmid)
+cp32-8,NC_000953.1,1306,1998,+,1194687,-,BB_L02,NP_051379.1,230,-,hypothetical protein BB_L02 (plasmid)
+cp32-8,NC_000953.1,2011,2568,+,1194688,-,BB_L03,NP_051380.1,185,-,hypothetical protein BB_L03 (plasmid)
+cp32-8,NC_000953.1,2575,3339,+,1194689,-,BB_L04,NP_051381.1,254,-,hypothetical protein BB_L04 (plasmid)
+cp32-8,NC_000953.1,3963,4922,+,1194667,-,BB_L06,NP_051383.2,319,-,hypothetical protein BB_L06 (plasmid)
+cp32-8,NC_000953.1,4942,5397,+,1194668,-,BB_L07,NP_051384.2,151,-,hypothetical protein BB_L07 (plasmid)
+cp32-8,NC_000953.1,5397,5780,+,1194669,-,BB_L08,NP_051385.2,127,-,hypothetical protein BB_L08 (plasmid)
+cp32-8,NC_000953.1,5768,6157,+,1194670,-,BB_L09,NP_051386.1,129,-,hypothetical protein BB_L09 (plasmid)
+cp32-8,NC_000953.1,6154,6720,+,1194671,-,BB_L10,NP_051387.1,188,-,hypothetical protein BB_L10 (plasmid)
+cp32-8,NC_000953.1,6701,7813,+,1194691,-,BB_L11,NP_051388.1,370,-,hypothetical protein BB_L11 (plasmid)
+cp32-8,NC_000953.1,7828,8256,+,1194692,-,BB_L12,NP_051389.1,142,-,hypothetical protein BB_L12 (plasmid)
+cp32-8,NC_000953.1,8272,8727,+,1194693,-,BB_L13,NP_051390.1,151,-,hypothetical protein BB_L13 (plasmid)
+cp32-8,NC_000953.1,8724,8960,+,1194694,-,BB_L14,NP_051391.1,78,-,hypothetical protein BB_L14 (plasmid)
+cp32-8,NC_000953.1,8968,10242,+,1194695,-,BB_L15,NP_051392.1,424,-,hypothetical protein BB_L15 (plasmid)
+cp32-8,NC_000953.1,10265,10948,+,1194696,-,BB_L16,NP_051393.1,227,-,hypothetical protein BB_L16 (plasmid)
+cp32-8,NC_000953.1,10952,11902,+,1194697,-,BB_L17,NP_051394.1,316,-,hypothetical protein BB_L17 (plasmid)
+cp32-8,NC_000953.1,11920,12465,+,1194698,-,BB_L18,NP_051395.1,181,-,hypothetical protein BB_L18 (plasmid)
+cp32-8,NC_000953.1,12495,12827,+,1194672,-,BB_L19,NP_051396.1,110,-,hypothetical protein BB_L19 (plasmid)
+cp32-8,NC_000953.1,12824,13699,+,1194673,-,BB_L20,NP_051397.1,291,-,hypothetical protein BB_L20 (plasmid)
+cp32-8,NC_000953.1,13709,14314,+,1194674,-,BB_L21,NP_051398.1,201,-,hypothetical protein BB_L21 (plasmid)
+cp32-8,NC_000953.1,14324,15139,+,1194675,-,BB_L22,NP_051399.1,271,-,hypothetical protein BB_L22 (plasmid)
+cp32-8,NC_000953.1,15215,15418,+,1194676,blyA,BB_L23,NP_051400.1,67,-,holin protein (plasmid)
+cp32-8,NC_000953.1,15422,15769,+,1194677,blyB,BB_L24,NP_051401.1,115,-,holin protein (plasmid)
+cp32-8,NC_000953.1,15759,16094,+,1194678,-,BB_L25,NP_051402.1,111,-,hypothetical protein BB_L25 (plasmid)
+cp32-8,NC_000953.1,16087,16440,+,1194679,-,BB_L26,NP_051403.2,117,-,hypothetical protein BB_L26 (plasmid)
+cp32-8,NC_000953.1,16545,17099,+,1194680,bdrP,BB_L27,NP_051404.2,184,-,protein BdrP (plasmid)
+cp32-8,NC_000953.1,17205,17651,+,1194681,mlpH,BB_L28,NP_051405.1,148,-,lipoprotein (plasmid)
+cp32-8,NC_000953.1,17688,18701,-,1194682,-,BB_L29,NP_051406.2,337,-,hypothetical protein BB_L29 (plasmid)
+cp32-8,NC_000953.1,19091,20188,+,1194656,-,BB_L30,NP_051407.1,365,-,hypothetical protein BB_L30 (plasmid)
+cp32-8,NC_000953.1,20198,20764,+,1194657,-,BB_L31,NP_051408.1,188,-,hypothetical protein BB_L31 (plasmid)
+cp32-8,NC_000953.1,20740,21480,+,1194658,-,BB_L32,NP_051409.1,246,-,PF-32 protein (plasmid)
+cp32-8,NC_000953.1,22113,22691,+,1194660,bdrO,BB_L35,NP_051412.1,192,-,protein BdrO (plasmid)
+cp32-8,NC_000953.1,23366,24691,+,1194661,bppA,BB_L36,NP_051413.2,441,-,BppA (plasmid)
+cp32-8,NC_000953.1,24744,25169,+,1194662,bppB,BB_L37,NP_051414.1,141,-,BppB (plasmid)
+cp32-8,NC_000953.1,25175,25951,-,1194663,bppC,BB_L38,NP_051415.1,258,-,BppC (plasmid)
+cp32-8,NC_000953.1,26382,26903,+,1194664,erpN,BB_L39,NP_051416.2,173,-,ErpA8 protein (plasmid)
+cp32-8,NC_000953.1,26931,28067,+,1194665,erpO,BB_L40,NP_051417.1,378,-,ErpB1 protein (plasmid)
+cp32-8,NC_000953.1,28251,28790,+,1194684,-,BB_L41,NP_051418.2,179,-,hypothetical protein BB_L41 (plasmid)
+cp32-8,NC_000953.1,28970,29536,+,1194685,-,BB_L42,NP_051419.1,188,-,hypothetical protein BB_L42 (plasmid)
+cp32-8,NC_000953.1,29533,30885,+,1194666,-,BB_L43,NP_051420.1,450,-,phage terminase large subunit (plasmid)
+cp32-9,NC_000954.1,66,1292,+,1194725,-,BB_N01,NP_051421.1,408,-,hypothetical protein BB_N01 (plasmid)
+cp32-9,NC_000954.1,1309,2001,+,1194726,-,BB_N02,NP_051422.1,230,-,hypothetical protein BB_N02 (plasmid)
+cp32-9,NC_000954.1,2013,2579,+,1194727,-,BB_N03,NP_051423.1,188,-,hypothetical protein BB_N03 (plasmid)
+cp32-9,NC_000954.1,2583,3350,+,1194728,-,BB_N04,NP_051424.1,255,-,hypothetical protein BB_N04 (plasmid)
+cp32-9,NC_000954.1,4958,5413,+,1194699,-,BB_N07,NP_051425.1,151,-,hypothetical protein BB_N07 (plasmid)
+cp32-9,NC_000954.1,5413,5796,+,1194700,-,BB_N08,NP_051426.2,127,-,hypothetical protein BB_N08 (plasmid)
+cp32-9,NC_000954.1,5784,6173,+,1194701,-,BB_N09,NP_051427.1,129,-,hypothetical protein BB_N09 (plasmid)
+cp32-9,NC_000954.1,6170,6736,+,1194702,-,BB_N10,NP_051428.1,188,-,hypothetical protein BB_N10 (plasmid)
+cp32-9,NC_000954.1,7845,8273,+,1194730,-,BB_N12,NP_051430.1,142,-,hypothetical protein BB_N12 (plasmid)
+cp32-9,NC_000954.1,8742,8978,+,1194731,-,BB_N14,NP_051431.1,78,-,hypothetical protein BB_N14 (plasmid)
+cp32-9,NC_000954.1,8986,10260,+,1194732,-,BB_N15,NP_051432.1,424,-,hypothetical protein BB_N15 (plasmid)
+cp32-9,NC_000954.1,11041,11991,+,1194733,-,BB_N17,NP_051433.1,316,-,hypothetical protein BB_N17 (plasmid)
+cp32-9,NC_000954.1,12593,12925,+,1194703,-,BB_N19,NP_051434.1,110,-,hypothetical protein BB_N19 (plasmid)
+cp32-9,NC_000954.1,12922,13797,+,1194704,-,BB_N20,NP_051435.1,291,-,hypothetical protein BB_N20 (plasmid)
+cp32-9,NC_000954.1,15312,15515,+,1194707,blyA,BB_N23,NP_051436.1,67,-,holin protein (plasmid)
+cp32-9,NC_000954.1,15519,15866,+,1194708,blyB,BB_N24,NP_051437.1,115,-,holin protein (plasmid)
+cp32-9,NC_000954.1,15856,16191,+,1194709,-,BB_N25,NP_051438.1,111,-,hypothetical protein BB_N25 (plasmid)
+cp32-9,NC_000954.1,16184,16537,+,1194710,-,BB_N26,NP_051439.2,117,-,hypothetical protein BB_N26 (plasmid)
+cp32-9,NC_000954.1,16642,17196,+,1194711,bdrR,BB_N27,NP_051440.2,184,-,BdrR protein (plasmid)
+cp32-9,NC_000954.1,17302,17730,+,1194712,mlpI,BB_N28,NP_051441.1,142,-,lipoprotein (plasmid)
+cp32-9,NC_000954.1,19164,20264,+,1194714,-,BB_N30,NP_051442.1,366,-,hypothetical protein BB_N30 (plasmid)
+cp32-9,NC_000954.1,20275,20841,+,1194715,-,BB_N31,NP_051443.1,188,-,hypothetical protein BB_N31 (plasmid)
+cp32-9,NC_000954.1,20817,21572,+,1194716,-,BB_N32,NP_051444.1,251,-,PF-32 protein (plasmid)
+cp32-9,NC_000954.1,21614,22174,+,1194717,-,BB_N33,NP_051445.1,186,-,PF-49 protein (plasmid)
+cp32-9,NC_000954.1,22184,22723,+,1194718,bdrQ,BB_N34,NP_051446.1,179,-,BdrQ (plasmid)
+cp32-9,NC_000954.1,23194,24519,+,1194719,bppA,BB_N35,NP_051447.1,441,-,protein BppA (plasmid)
+cp32-9,NC_000954.1,24572,24997,+,1194720,bppB,BB_N36,NP_051448.1,141,-,protein BppB (plasmid)
+cp32-9,NC_000954.1,26210,26770,+,1194722,erpP,BB_N38,NP_051449.1,186,-,protein ErpP (plasmid)
+cp32-9,NC_000954.1,26798,27829,+,1194723,erpQ,BB_N39,NP_051450.1,343,-,protein ErpQ (plasmid)
+cp32-9,NC_000954.1,28026,28544,+,1194734,-,BB_N41,NP_051452.2,172,-,hypothetical protein BB_N41 (plasmid)
+cp32-9,NC_000954.1,28850,29302,+,1194736,-,BB_N42,NP_051453.2,150,-,hypothetical protein BB_N42 (plasmid)
+cp32-9,NC_000954.1,29299,30651,+,1194724,-,BB_N43,NP_051454.1,450,-,phage terminase large subunit (plasmid)
+lp28-1,NC_001851.2,467,1465,+,1194073,-,BB_F01,YP_004940409.1,332,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,1720,2076,+,1194072,-,BB_F02,NP_045438.1,118,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,2098,2619,-,1194071,-,BB_F03,NP_045439.1,173,-,RepU (plasmid)
+lp28-1,NC_001851.2,3201,3380,+,1194070,-,BB_F06,NP_045442.1,59,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,3682,3849,-,1194091,-,BB_F08,NP_045444.1,55,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,4278,4493,-,11473649,-,BB_F0034,YP_004940410.1,71,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,7354,7869,-,1194068,-,BB_F14,NP_045449.2,171,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,8772,9029,+,1194096,-,BB_F17,YP_004940411.1,85,-,putative transmembrane protein (plasmid)
+lp28-1,NC_001851.2,10698,10895,-,1194079,-,BB_F20,NP_045453.2,65,-,BBF20 (plasmid)
+lp28-1,NC_001851.2,12441,12992,-,1194077,-,BB_F23,NP_045456.1,183,-,PF49 (plasmid)
+lp28-1,NC_001851.2,13029,13793,-,1194076,-,BB_F24,NP_045457.1,254,-,PF32 (plasmid)
+lp28-1,NC_001851.2,13769,14329,-,1194075,-,BB_F25,NP_045458.1,186,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,14351,15451,-,1194074,-,BB_F26,NP_045459.1,366,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,17058,17216,+,11473643,-,BB_F0039,YP_004940412.1,52,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,17551,17805,-,11473644,-,BB_F0040,YP_004940413.1,84,-,hypothetical protein (plasmid)
+lp28-1,NC_001851.2,26997,28073,+,11473645,-,BB_F0041,YP_004940414.1,358,-,outer surface protein VlsE1 (plasmid)
+lp28-2,NC_001852.1,116,1009,+,1194123,-,BB_G01,NP_045463.1,297,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,1047,1928,+,1194101,-,BB_G02,NP_045464.1,293,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,5378,5950,+,1194103,-,BB_G07,NP_045467.1,190,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,5911,6678,+,1194104,-,BB_G08,NP_045468.1,255,-,stage 0 sporulation protein SpoOJ (plasmid)
+lp28-2,NC_001852.1,6737,7288,+,1194105,-,BB_G09,NP_045469.1,183,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,11063,11491,-,1194127,-,BB_G12,NP_045472.1,142,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,11501,12319,-,1194128,-,BB_G13,NP_045473.2,272,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,12309,12752,-,1194113,-,BB_G14,NP_045474.1,147,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,12749,13141,-,1194129,-,BB_G15,NP_045475.2,130,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,13157,13495,-,1194114,-,BB_G16,NP_045476.1,112,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,13508,14341,-,1194115,-,BB_G17,NP_045477.1,277,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,14376,14885,-,1194116,-,BB_G18,NP_045478.1,169,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,14886,15431,-,1194117,-,BB_G19,NP_045479.1,181,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,15457,16482,-,1194118,-,BB_G20,NP_045480.1,341,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,16494,17684,-,1194119,-,BB_G21,NP_045481.1,396,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,17681,18019,-,11473560,-,BB_G0036,YP_004940633.1,112,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,18030,18827,-,1194120,-,BB_G22,NP_045482.1,265,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,18837,19619,-,1194121,-,BB_G23,NP_045483.1,260,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,19620,22259,-,1194122,-,BB_G24,NP_045484.2,879,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,22273,22659,-,1194100,-,BB_G25,NP_045485.1,128,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,22659,23033,-,1194130,-,BB_G26,NP_045486.1,124,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,23033,23725,-,1194106,-,BB_G27,NP_045487.1,230,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,23722,24108,-,1194131,-,BB_G28,NP_045488.1,128,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,24489,25955,+,1194107,-,BB_G29,NP_045489.1,488,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,25980,26390,+,1194132,-,BB_G30,NP_045490.2,136,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,26570,27085,+,1194108,-,BB_G31,NP_045491.2,171,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,27113,27940,+,1194109,-,BB_G32,NP_045492.1,275,-,replicative DNA helicase (plasmid)
+lp28-2,NC_001852.1,28031,28831,+,1194110,-,BB_G33,NP_045493.1,266,-,hypothetical protein (plasmid)
+lp28-2,NC_001852.1,28854,29618,-,1194133,-,BB_G34,NP_045494.1,254,-,hypothetical protein (plasmid)
+lp28-3,NC_001853.1,391,858,+,1194141,-,BB_H02,NP_045496.1,155,-,hypothetical protein BB_H02 (plasmid)
+lp28-3,NC_001853.1,1045,1368,+,1194134,-,BB_H04,NP_045498.1,107,-,hypothetical protein BB_H04 (plasmid)
+lp28-3,NC_001853.1,1498,1680,+,1194140,-,BB_H05,NP_045499.1,60,-,hypothetical protein BB_H05 (plasmid)
+lp28-3,NC_001853.1,2260,2970,-,1194149,-,BB_H06,NP_045500.1,236,-,complement regulator-acquiring surface protein (plasmid)
+lp28-3,NC_001853.1,3892,7728,-,1194151,-,BB_H09,NP_045502.1,1278,-,type II restriction enzyme methylase subunit (plasmid)
+lp28-3,NC_001853.1,8018,8431,+,11473564,-,BB_H09a,YP_004940634.1,137,-,hypothetical protein BB_H09a (plasmid)
+lp28-3,NC_001853.1,9081,9236,+,11473566,-,BB_H0042,YP_004940635.1,51,-,hypothetical protein BB_H0042 (plasmid)
+lp28-3,NC_001853.1,9848,10516,-,1194136,-,BB_H13,NP_045506.1,222,-,protein RepU (plasmid)
+lp28-3,NC_001853.1,11837,12028,+,1194172,-,BB_H17,NP_045510.1,63,-,hypothetical protein BB_H17 (plasmid)
+lp28-3,NC_001853.1,15565,15810,-,1194161,-,BB_H25,NP_045516.1,81,-,hypothetical protein BB_H25 (plasmid)
+lp28-3,NC_001853.1,16519,17415,+,1194162,-,BB_H26,NP_045517.1,298,-,hypothetical protein BB_H26 (plasmid)
+lp28-3,NC_001853.1,17408,17974,+,1194142,-,BB_H27,NP_045518.1,188,-,hypothetical protein BB_H27 (plasmid)
+lp28-3,NC_001853.1,17947,18702,+,1194143,-,BB_H28,NP_045519.1,251,-,PF-32 protein (plasmid)
+lp28-3,NC_001853.1,18798,19427,+,1194144,-,BB_H29,NP_045520.1,209,-,plasmid partition protein (plasmid)
+lp28-3,NC_001853.1,21470,22219,+,1194146,-,BB_H32,NP_045522.1,249,-,antigen P35 (plasmid)
+lp28-3,NC_001853.1,22678,22953,+,1194165,-,BB_H33,NP_045523.1,91,-,adenine deaminase (plasmid)
+lp28-3,NC_001853.1,25433,26371,-,1194169,-,BB_H37,NP_045527.1,312,-,lipoprotein (plasmid)
+lp28-3,NC_001853.1,26978,27445,-,1194137,-,BB_H40,NP_045530.1,155,-,transposase-like protein (plasmid)
+lp28-3,NC_001853.1,27625,28197,-,1194138,-,BB_H41,NP_045531.1,190,-,membrane protein (plasmid)
+lp28-4,NC_001854.1,174,608,+,1194202,-,BB_I01,NP_045532.1,144,-,hypothetical protein BB_I01 (plasmid)
+lp28-4,NC_001854.1,736,1104,+,1194180,-,BB_I02,NP_045533.1,122,-,hypothetical protein BB_I02 (plasmid)
+lp28-4,NC_001854.1,2536,3351,+,1194181,-,BB_I06,NP_045537.1,271,-,MTA/SAH nucleosidase (plasmid)
+lp28-4,NC_001854.1,5128,5346,+,1194191,-,BB_I12,NP_045543.1,72,-,hypothetical protein BB_I12 (plasmid)
+lp28-4,NC_001854.1,6603,6833,+,1194193,-,BB_I15,NP_045546.1,76,-,virulence associated lipoprotein (plasmid)
+lp28-4,NC_001854.1,7183,8538,+,1194194,vraA,BB_I16,NP_045547.1,451,-,repetitive antigen A (plasmid)
+lp28-4,NC_001854.1,10495,10647,-,1194196,-,BB_I18,NP_045549.1,50,-,hypothetical protein BB_I18 (plasmid)
+lp28-4,NC_001854.1,10815,11927,+,1194175,-,BB_I19,NP_045550.2,370,-,hypothetical protein BB_I19 (plasmid)
+lp28-4,NC_001854.1,11924,12478,+,1194176,-,BB_I20,NP_045551.1,184,-,hypothetical protein BB_I20 (plasmid)
+lp28-4,NC_001854.1,12454,13206,+,1194177,-,BB_I21,NP_045552.1,250,-,PF-32 protein (plasmid)
+lp28-4,NC_001854.1,13265,13837,+,1194178,-,BB_I22,NP_045553.1,190,-,PF-49 protein (plasmid)
+lp28-4,NC_001854.1,15352,16530,+,1194182,-,BB_I26,NP_045557.1,392,-,multidrug-efflux transporter (plasmid)
+lp28-4,NC_001854.1,18518,19183,-,1194210,-,BB_I29,NP_045560.1,221,-,virulence associated lipoprotein (plasmid)
+lp28-4,NC_001854.1,20771,21562,-,1194214,-,BB_I34,NP_045565.1,263,-,virulence associated lipoprotein (plasmid)
+lp28-4,NC_001854.1,22095,22931,-,1194186,-,BB_I36,NP_045567.1,278,-,antigen P35 (plasmid)
+lp28-4,NC_001854.1,23159,23995,-,1194199,-,BB_I38,NP_045569.1,278,-,surface antigen (plasmid)
+lp28-4,NC_001854.1,24223,25089,-,1194200,-,BB_I39,NP_045570.1,288,-,surface antigen (plasmid)
+lp28-4,NC_001854.1,25794,26036,-,1194201,-,BB_I41,NP_045572.1,80,-,hypothetical protein BB_I41 (plasmid)
+lp28-4,NC_001854.1,26360,26914,+,1194183,-,BB_I42,NP_045573.1,184,-,outer membrane protein (plasmid)
